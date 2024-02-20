@@ -1,3 +1,5 @@
+<p align="center"><img src="https://ww1.odu.edu/content/dam/odu/logos/univ/png-72dpi/odu-sig-noidea-fullcolor.png" alt="ODU Banner" width="250"/></p>
+
 # Credit Card Customers
 How to understand bank customer base, and creation of model to predict when account will be lost. 
 
@@ -19,3 +21,15 @@ You don't have to include this section but interviewers *love* that you can not 
 ## Lessons Learned:
 
 lore ipsum, to be written at a later date.
+
+## Contributors:
+**AJ Broderick** \
+Email: abrod006@odu.edu \
+*UIN: 01244170* \
+[GitHub.io](https://aj-broderick.github.io/) \
+\
+**Jasmine Nees** \
+Email: jking044@odu.edu \
+*UIN: 01223861* \
+[Github.io](https://jasmineking19.github.io/)
+
