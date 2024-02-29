@@ -1,0 +1,970 @@
+State_Name,State_Abbrv,Price_Index,Cal_Year
+Alabama ,AL,140,1990
+Alaska ,AK,115,1990
+Arizona ,AZ,132,1990
+Arkansas ,AR,129,1990
+California ,CA,228,1990
+Colorado ,CO,130,1990
+Connecticut ,CT,241,1990
+Delaware ,DE,226,1990
+District of Columbia,DC,194,1990
+Florida ,FL,152,1990
+Georgia ,GA,162,1990
+Hawaii ,HI,251,1990
+Idaho ,ID,128,1990
+Illinois ,IL,170,1990
+Indiana ,IN,140,1990
+Iowa ,IA,120,1990
+Kansas ,KS,120,1990
+Kentucky ,KY,142,1990
+Louisiana ,LA,104,1990
+Maine ,ME,236,1990
+Maryland ,MD,201,1990
+Massachusetts ,MA,291,1990
+Michigan ,MI,147,1990
+Minnesota ,MN,139,1990
+Mississippi ,MS,122,1990
+Missouri ,MO,145,1990
+Montana ,MT,124,1990
+Nebraska ,NE,127,1990
+Nevada ,NV,146,1990
+New Hampshire ,NH,216,1990
+New Jersey ,NJ,230,1990
+New Mexico ,NM,137,1990
+New York ,NY,278,1990
+North Carolina ,NC,164,1990
+North Dakota ,ND,114,1990
+Ohio ,OH,145,1990
+Oklahoma ,OK,102,1990
+Oregon ,OR,135,1990
+Pennsylvania ,PA,198,1990
+Rhode Island ,RI,254,1990
+South Carolina ,SC,150,1990
+South Dakota ,SD,123,1990
+Tennessee ,TN,147,1990
+Texas ,TX,117,1990
+Utah ,UT,119,1990
+Vermont ,VT,214,1990
+Virginia ,VA,184,1990
+Washington ,WA,178,1990
+West Virginia ,WV,111,1990
+Wisconsin ,WI,137,1990
+Wyoming ,WY,91,1990
+Alabama ,AL,147,1991
+Alaska ,AK,127,1991
+Arizona ,AZ,139,1991
+Arkansas ,AR,134,1991
+California ,CA,228,1991
+Colorado ,CO,136,1991
+Connecticut ,CT,237,1991
+Delaware ,DE,233,1991
+District of Columbia,DC,199,1991
+Florida ,FL,157,1991
+Georgia ,GA,165,1991
+Hawaii ,HI,263,1991
+Idaho ,ID,138,1991
+Illinois ,IL,177,1991
+Indiana ,IN,147,1991
+Iowa ,IA,126,1991
+Kansas ,KS,123,1991
+Kentucky ,KY,148,1991
+Louisiana ,LA,108,1991
+Maine ,ME,232,1991
+Maryland ,MD,209,1991
+Massachusetts ,MA,285,1991
+Michigan ,MI,154,1991
+Minnesota ,MN,145,1991
+Mississippi ,MS,126,1991
+Missouri ,MO,149,1991
+Montana ,MT,132,1991
+Nebraska ,NE,132,1991
+Nevada ,NV,154,1991
+New Hampshire ,NH,206,1991
+New Jersey ,NJ,229,1991
+New Mexico ,NM,142,1991
+New York ,NY,281,1991
+North Carolina ,NC,168,1991
+North Dakota ,ND,118,1991
+Ohio ,OH,152,1991
+Oklahoma ,OK,108,1991
+Oregon ,OR,146,1991
+Pennsylvania ,PA,205,1991
+Rhode Island ,RI,249,1991
+South Carolina ,SC,157,1991
+South Dakota ,SD,131,1991
+Tennessee ,TN,152,1991
+Texas ,TX,121,1991
+Utah ,UT,127,1991
+Vermont ,VT,211,1991
+Virginia ,VA,188,1991
+Washington ,WA,188,1991
+West Virginia ,WV,118,1991
+Wisconsin ,WI,145,1991
+Wyoming ,WY,97,1991
+Alabama ,AL,152,1992
+Alaska ,AK,132,1992
+Arizona ,AZ,141,1992
+Arkansas ,AR,138,1992
+California ,CA,222,1992
+Colorado ,CO,147,1992
+Connecticut ,CT,234,1992
+Delaware ,DE,235,1992
+District of Columbia,DC,200,1992
+Florida ,FL,161,1992
+Georgia ,GA,170,1992
+Hawaii ,HI,265,1992
+Idaho ,ID,148,1992
+Illinois ,IL,183,1992
+Indiana ,IN,153,1992
+Iowa ,IA,132,1992
+Kansas ,KS,126,1992
+Kentucky ,KY,154,1992
+Louisiana ,LA,113,1992
+Maine ,ME,231,1992
+Maryland ,MD,211,1992
+Massachusetts ,MA,283,1992
+Michigan ,MI,158,1992
+Minnesota ,MN,149,1992
+Mississippi ,MS,130,1992
+Missouri ,MO,152,1992
+Montana ,MT,145,1992
+Nebraska ,NE,138,1992
+Nevada ,NV,159,1992
+New Hampshire ,NH,200,1992
+New Jersey ,NJ,232,1992
+New Mexico ,NM,149,1992
+New York ,NY,287,1992
+North Carolina ,NC,173,1992
+North Dakota ,ND,124,1992
+Ohio ,OH,158,1992
+Oklahoma ,OK,110,1992
+Oregon ,OR,157,1992
+Pennsylvania ,PA,209,1992
+Rhode Island ,RI,246,1992
+South Carolina ,SC,161,1992
+South Dakota ,SD,140,1992
+Tennessee ,TN,156,1992
+Texas ,TX,125,1992
+Utah ,UT,137,1992
+Vermont ,VT,214,1992
+Virginia ,VA,191,1992
+Washington ,WA,195,1992
+West Virginia ,WV,123,1992
+Wisconsin ,WI,153,1992
+Wyoming ,WY,103,1992
+Alabama ,AL,159,1993
+Alaska ,AK,135,1993
+Arizona ,AZ,146,1993
+Arkansas ,AR,146,1993
+California ,CA,214,1993
+Colorado ,CO,162,1993
+Connecticut ,CT,232,1993
+Delaware ,DE,235,1993
+District of Columbia,DC,200,1993
+Florida ,FL,166,1993
+Georgia ,GA,175,1993
+Hawaii ,HI,266,1993
+Idaho ,ID,161,1993
+Illinois ,IL,190,1993
+Indiana ,IN,159,1993
+Iowa ,IA,139,1993
+Kansas ,KS,131,1993
+Kentucky ,KY,159,1993
+Louisiana ,LA,120,1993
+Maine ,ME,231,1993
+Maryland ,MD,212,1993
+Massachusetts ,MA,285,1993
+Michigan ,MI,163,1993
+Minnesota ,MN,156,1993
+Mississippi ,MS,135,1993
+Missouri ,MO,156,1993
+Montana ,MT,159,1993
+Nebraska ,NE,146,1993
+Nevada ,NV,163,1993
+New Hampshire ,NH,202,1993
+New Jersey ,NJ,235,1993
+New Mexico ,NM,161,1993
+New York ,NY,288,1993
+North Carolina ,NC,178,1993
+North Dakota ,ND,131,1993
+Ohio ,OH,165,1993
+Oklahoma ,OK,116,1993
+Oregon ,OR,170,1993
+Pennsylvania ,PA,213,1993
+Rhode Island ,RI,246,1993
+South Carolina ,SC,165,1993
+South Dakota ,SD,150,1993
+Tennessee ,TN,163,1993
+Texas ,TX,130,1993
+Utah ,UT,155,1993
+Vermont ,VT,217,1993
+Virginia ,VA,194,1993
+Washington ,WA,203,1993
+West Virginia ,WV,128,1993
+Wisconsin ,WI,160,1993
+Wyoming ,WY,112,1993
+Alabama ,AL,162,1994
+Alaska ,AK,140,1994
+Arizona ,AZ,154,1994
+Arkansas ,AR,153,1994
+California ,CA,200,1994
+Colorado ,CO,180,1994
+Connecticut ,CT,219,1994
+Delaware ,DE,228,1994
+District of Columbia,DC,186,1994
+Florida ,FL,164,1994
+Georgia ,GA,178,1994
+Hawaii ,HI,259,1994
+Idaho ,ID,171,1994
+Illinois ,IL,197,1994
+Indiana ,IN,165,1994
+Iowa ,IA,148,1994
+Kansas ,KS,140,1994
+Kentucky ,KY,170,1994
+Louisiana ,LA,125,1994
+Maine ,ME,220,1994
+Maryland ,MD,207,1994
+Massachusetts ,MA,280,1994
+Michigan ,MI,173,1994
+Minnesota ,MN,161,1994
+Mississippi ,MS,143,1994
+Missouri ,MO,163,1994
+Montana ,MT,173,1994
+Nebraska ,NE,156,1994
+Nevada ,NV,163,1994
+New Hampshire ,NH,195,1994
+New Jersey ,NJ,229,1994
+New Mexico ,NM,177,1994
+New York ,NY,275,1994
+North Carolina ,NC,187,1994
+North Dakota ,ND,138,1994
+Ohio ,OH,172,1994
+Oklahoma ,OK,119,1994
+Oregon ,OR,188,1994
+Pennsylvania ,PA,208,1994
+Rhode Island ,RI,231,1994
+South Carolina ,SC,168,1994
+South Dakota ,SD,161,1994
+Tennessee ,TN,170,1994
+Texas ,TX,130,1994
+Utah ,UT,179,1994
+Vermont ,VT,215,1994
+Virginia ,VA,193,1994
+Washington ,WA,210,1994
+West Virginia ,WV,134,1994
+Wisconsin ,WI,174,1994
+Wyoming ,WY,122,1994
+Alabama ,AL,171,1995
+Alaska ,AK,147,1995
+Arizona ,AZ,163,1995
+Arkansas ,AR,160,1995
+California ,CA,203,1995
+Colorado ,CO,194,1995
+Connecticut ,CT,226,1995
+Delaware ,DE,234,1995
+District of Columbia,DC,198,1995
+Florida ,FL,172,1995
+Georgia ,GA,187,1995
+Hawaii ,HI,261,1995
+Idaho ,ID,181,1995
+Illinois ,IL,206,1995
+Indiana ,IN,175,1995
+Iowa ,IA,157,1995
+Kansas ,KS,148,1995
+Kentucky ,KY,178,1995
+Louisiana ,LA,133,1995
+Maine ,ME,231,1995
+Maryland ,MD,214,1995
+Massachusetts ,MA,293,1995
+Michigan ,MI,186,1995
+Minnesota ,MN,171,1995
+Mississippi ,MS,150,1995
+Missouri ,MO,171,1995
+Montana ,MT,184,1995
+Nebraska ,NE,164,1995
+Nevada ,NV,172,1995
+New Hampshire ,NH,205,1995
+New Jersey ,NJ,236,1995
+New Mexico ,NM,188,1995
+New York ,NY,282,1995
+North Carolina ,NC,196,1995
+North Dakota ,ND,144,1995
+Ohio ,OH,181,1995
+Oklahoma ,OK,125,1995
+Oregon ,OR,205,1995
+Pennsylvania ,PA,216,1995
+Rhode Island ,RI,242,1995
+South Carolina ,SC,176,1995
+South Dakota ,SD,168,1995
+Tennessee ,TN,181,1995
+Texas ,TX,135,1995
+Utah ,UT,199,1995
+Vermont ,VT,219,1995
+Virginia ,VA,199,1995
+Washington ,WA,219,1995
+West Virginia ,WV,140,1995
+Wisconsin ,WI,185,1995
+Wyoming ,WY,131,1995
+Alabama ,AL,177,1996
+Alaska ,AK,154,1996
+Arizona ,AZ,169,1996
+Arkansas ,AR,164,1996
+California ,CA,201,1996
+Colorado ,CO,203,1996
+Connecticut ,CT,224,1996
+Delaware ,DE,236,1996
+District of Columbia,DC,195,1996
+Florida ,FL,173,1996
+Georgia ,GA,195,1996
+Hawaii ,HI,238,1996
+Idaho ,ID,184,1996
+Illinois ,IL,212,1996
+Indiana ,IN,182,1996
+Iowa ,IA,163,1996
+Kansas ,KS,154,1996
+Kentucky ,KY,186,1996
+Louisiana ,LA,139,1996
+Maine ,ME,236,1996
+Maryland ,MD,214,1996
+Massachusetts ,MA,302,1996
+Michigan ,MI,201,1996
+Minnesota ,MN,178,1996
+Mississippi ,MS,156,1996
+Missouri ,MO,178,1996
+Montana ,MT,192,1996
+Nebraska ,NE,173,1996
+Nevada ,NV,175,1996
+New Hampshire ,NH,209,1996
+New Jersey ,NJ,236,1996
+New Mexico ,NM,189,1996
+New York ,NY,283,1996
+North Carolina ,NC,204,1996
+North Dakota ,ND,149,1996
+Ohio ,OH,189,1996
+Oklahoma ,OK,128,1996
+Oregon ,OR,219,1996
+Pennsylvania ,PA,217,1996
+Rhode Island ,RI,238,1996
+South Carolina ,SC,184,1996
+South Dakota ,SD,172,1996
+Tennessee ,TN,190,1996
+Texas ,TX,137,1996
+Utah ,UT,213,1996
+Vermont ,VT,218,1996
+Virginia ,VA,201,1996
+Washington ,WA,224,1996
+West Virginia ,WV,143,1996
+Wisconsin ,WI,193,1996
+Wyoming ,WY,135,1996
+Alabama ,AL,185,1997
+Alaska ,AK,158,1997
+Arizona ,AZ,177,1997
+Arkansas ,AR,171,1997
+California ,CA,212,1997
+Colorado ,CO,215,1997
+Connecticut ,CT,231,1997
+Delaware ,DE,241,1997
+District of Columbia,DC,196,1997
+Florida ,FL,181,1997
+Georgia ,GA,207,1997
+Hawaii ,HI,229,1997
+Idaho ,ID,191,1997
+Illinois ,IL,219,1997
+Indiana ,IN,191,1997
+Iowa ,IA,170,1997
+Kansas ,KS,161,1997
+Kentucky ,KY,194,1997
+Louisiana ,LA,146,1997
+Maine ,ME,244,1997
+Maryland ,MD,219,1997
+Massachusetts ,MA,319,1997
+Michigan ,MI,215,1997
+Minnesota ,MN,188,1997
+Mississippi ,MS,162,1997
+Missouri ,MO,186,1997
+Montana ,MT,200,1997
+Nebraska ,NE,183,1997
+Nevada ,NV,180,1997
+New Hampshire ,NH,219,1997
+New Jersey ,NJ,244,1997
+New Mexico ,NM,194,1997
+New York ,NY,292,1997
+North Carolina ,NC,216,1997
+North Dakota ,ND,154,1997
+Ohio ,OH,198,1997
+Oklahoma ,OK,134,1997
+Oregon ,OR,232,1997
+Pennsylvania ,PA,223,1997
+Rhode Island ,RI,246,1997
+South Carolina ,SC,193,1997
+South Dakota ,SD,181,1997
+Tennessee ,TN,199,1997
+Texas ,TX,141,1997
+Utah ,UT,226,1997
+Vermont ,VT,223,1997
+Virginia ,VA,207,1997
+Washington ,WA,237,1997
+West Virginia ,WV,151,1997
+Wisconsin ,WI,202,1997
+Wyoming ,WY,141,1997
+Alabama ,AL,194,1998
+Alaska ,AK,162,1998
+Arizona ,AZ,186,1998
+Arkansas ,AR,177,1998
+California ,CA,231,1998
+Colorado ,CO,228,1998
+Connecticut ,CT,244,1998
+Delaware ,DE,248,1998
+District of Columbia,DC,212,1998
+Florida ,FL,190,1998
+Georgia ,GA,220,1998
+Hawaii ,HI,230,1998
+Idaho ,ID,197,1998
+Illinois ,IL,226,1998
+Indiana ,IN,199,1998
+Iowa ,IA,179,1998
+Kansas ,KS,169,1998
+Kentucky ,KY,203,1998
+Louisiana ,LA,153,1998
+Maine ,ME,256,1998
+Maryland ,MD,225,1998
+Massachusetts ,MA,343,1998
+Michigan ,MI,228,1998
+Minnesota ,MN,199,1998
+Mississippi ,MS,170,1998
+Missouri ,MO,193,1998
+Montana ,MT,204,1998
+Nebraska ,NE,191,1998
+Nevada ,NV,185,1998
+New Hampshire ,NH,235,1998
+New Jersey ,NJ,254,1998
+New Mexico ,NM,200,1998
+New York ,NY,307,1998
+North Carolina ,NC,225,1998
+North Dakota ,ND,161,1998
+Ohio ,OH,207,1998
+Oklahoma ,OK,140,1998
+Oregon ,OR,242,1998
+Pennsylvania ,PA,231,1998
+Rhode Island ,RI,254,1998
+South Carolina ,SC,203,1998
+South Dakota ,SD,187,1998
+Tennessee ,TN,209,1998
+Texas ,TX,148,1998
+Utah ,UT,236,1998
+Vermont ,VT,230,1998
+Virginia ,VA,213,1998
+Washington ,WA,252,1998
+West Virginia ,WV,157,1998
+Wisconsin ,WI,208,1998
+Wyoming ,WY,144,1998
+Alabama ,AL,197,1999
+Alaska ,AK,166,1999
+Arizona ,AZ,195,1999
+Arkansas ,AR,180,1999
+California ,CA,249,1999
+Colorado ,CO,251,1999
+Connecticut ,CT,258,1999
+Delaware ,DE,260,1999
+District of Columbia,DC,233,1999
+Florida ,FL,197,1999
+Georgia ,GA,233,1999
+Hawaii ,HI,224,1999
+Idaho ,ID,197,1999
+Illinois ,IL,236,1999
+Indiana ,IN,203,1999
+Iowa ,IA,185,1999
+Kansas ,KS,177,1999
+Kentucky ,KY,211,1999
+Louisiana ,LA,158,1999
+Maine ,ME,272,1999
+Maryland ,MD,232,1999
+Massachusetts ,MA,386,1999
+Michigan ,MI,244,1999
+Minnesota ,MN,217,1999
+Mississippi ,MS,174,1999
+Missouri ,MO,203,1999
+Montana ,MT,209,1999
+Nebraska ,NE,197,1999
+Nevada ,NV,185,1999
+New Hampshire ,NH,258,1999
+New Jersey ,NJ,269,1999
+New Mexico ,NM,200,1999
+New York ,NY,331,1999
+North Carolina ,NC,232,1999
+North Dakota ,ND,161,1999
+Ohio ,OH,213,1999
+Oklahoma ,OK,144,1999
+Oregon ,OR,245,1999
+Pennsylvania ,PA,235,1999
+Rhode Island ,RI,268,1999
+South Carolina ,SC,213,1999
+South Dakota ,SD,194,1999
+Tennessee ,TN,213,1999
+Texas ,TX,157,1999
+Utah ,UT,234,1999
+Vermont ,VT,242,1999
+Virginia ,VA,223,1999
+Washington ,WA,264,1999
+West Virginia ,WV,157,1999
+Wisconsin ,WI,219,1999
+Wyoming ,WY,148,1999
+Alabama ,AL,204,2000
+Alaska ,AK,170,2000
+Arizona ,AZ,207,2000
+Arkansas ,AR,184,2000
+California ,CA,285,2000
+Colorado ,CO,280,2000
+Connecticut ,CT,276,2000
+Delaware ,DE,279,2000
+District of Columbia,DC,267,2000
+Florida ,FL,214,2000
+Georgia ,GA,250,2000
+Hawaii ,HI,238,2000
+Idaho ,ID,201,2000
+Illinois ,IL,252,2000
+Indiana ,IN,211,2000
+Iowa ,IA,192,2000
+Kansas ,KS,186,2000
+Kentucky ,KY,221,2000
+Louisiana ,LA,164,2000
+Maine ,ME,295,2000
+Maryland ,MD,248,2000
+Massachusetts ,MA,440,2000
+Michigan ,MI,264,2000
+Minnesota ,MN,239,2000
+Mississippi ,MS,186,2000
+Missouri ,MO,215,2000
+Montana ,MT,218,2000
+Nebraska ,NE,205,2000
+Nevada ,NV,194,2000
+New Hampshire ,NH,296,2000
+New Jersey ,NJ,295,2000
+New Mexico ,NM,203,2000
+New York ,NY,361,2000
+North Carolina ,NC,243,2000
+North Dakota ,ND,167,2000
+Ohio ,OH,223,2000
+Oklahoma ,OK,150,2000
+Oregon ,OR,256,2000
+Pennsylvania ,PA,244,2000
+Rhode Island ,RI,296,2000
+South Carolina ,SC,220,2000
+South Dakota ,SD,203,2000
+Tennessee ,TN,221,2000
+Texas ,TX,166,2000
+Utah ,UT,242,2000
+Vermont ,VT,263,2000
+Virginia ,VA,243,2000
+Washington ,WA,279,2000
+West Virginia ,WV,161,2000
+Wisconsin ,WI,231,2000
+Wyoming ,WY,157,2000
+Alabama ,AL,215,2001
+Alaska ,AK,180,2001
+Arizona ,AZ,220,2001
+Arkansas ,AR,194,2001
+California ,CA,314,2001
+Colorado ,CO,302,2001
+Connecticut ,CT,302,2001
+Delaware ,DE,300,2001
+District of Columbia,DC,311,2001
+Florida ,FL,236,2001
+Georgia ,GA,267,2001
+Hawaii ,HI,258,2001
+Idaho ,ID,213,2001
+Illinois ,IL,267,2001
+Indiana ,IN,221,2001
+Iowa ,IA,202,2001
+Kansas ,KS,196,2001
+Kentucky ,KY,231,2001
+Louisiana ,LA,173,2001
+Maine ,ME,324,2001
+Maryland ,MD,269,2001
+Massachusetts ,MA,492,2001
+Michigan ,MI,277,2001
+Minnesota ,MN,263,2001
+Mississippi ,MS,196,2001
+Missouri ,MO,228,2001
+Montana ,MT,229,2001
+Nebraska ,NE,213,2001
+Nevada ,NV,207,2001
+New Hampshire ,NH,330,2001
+New Jersey ,NJ,326,2001
+New Mexico ,NM,212,2001
+New York ,NY,395,2001
+North Carolina ,NC,255,2001
+North Dakota ,ND,175,2001
+Ohio ,OH,234,2001
+Oklahoma ,OK,159,2001
+Oregon ,OR,270,2001
+Pennsylvania ,PA,260,2001
+Rhode Island ,RI,332,2001
+South Carolina ,SC,233,2001
+South Dakota ,SD,214,2001
+Tennessee ,TN,232,2001
+Texas ,TX,176,2001
+Utah ,UT,252,2001
+Vermont ,VT,284,2001
+Virginia ,VA,264,2001
+Washington ,WA,294,2001
+West Virginia ,WV,170,2001
+Wisconsin ,WI,243,2001
+Wyoming ,WY,165,2001
+Alabama ,AL,223,2002
+Alaska ,AK,189,2002
+Arizona ,AZ,233,2002
+Arkansas ,AR,201,2002
+California ,CA,356,2002
+Colorado ,CO,315,2002
+Connecticut ,CT,333,2002
+Delaware ,DE,326,2002
+District of Columbia,DC,357,2002
+Florida ,FL,261,2002
+Georgia ,GA,279,2002
+Hawaii ,HI,279,2002
+Idaho ,ID,220,2002
+Illinois ,IL,283,2002
+Indiana ,IN,227,2002
+Iowa ,IA,210,2002
+Kansas ,KS,204,2002
+Kentucky ,KY,239,2002
+Louisiana ,LA,181,2002
+Maine ,ME,357,2002
+Maryland ,MD,300,2002
+Massachusetts ,MA,553,2002
+Michigan ,MI,289,2002
+Minnesota ,MN,286,2002
+Mississippi ,MS,201,2002
+Missouri ,MO,240,2002
+Montana ,MT,243,2002
+Nebraska ,NE,220,2002
+Nevada ,NV,220,2002
+New Hampshire ,NH,370,2002
+New Jersey ,NJ,367,2002
+New Mexico ,NM,221,2002
+New York ,NY,440,2002
+North Carolina ,NC,263,2002
+North Dakota ,ND,185,2002
+Ohio ,OH,242,2002
+Oklahoma ,OK,165,2002
+Oregon ,OR,282,2002
+Pennsylvania ,PA,279,2002
+Rhode Island ,RI,387,2002
+South Carolina ,SC,242,2002
+South Dakota ,SD,224,2002
+Tennessee ,TN,239,2002
+Texas ,TX,183,2002
+Utah ,UT,255,2002
+Vermont ,VT,304,2002
+Virginia ,VA,288,2002
+Washington ,WA,308,2002
+West Virginia ,WV,177,2002
+Wisconsin ,WI,254,2002
+Wyoming ,WY,176,2002
+Alabama ,AL,230,2003
+Alaska ,AK,205,2003
+Arizona ,AZ,250,2003
+Arkansas ,AR,209,2003
+California ,CA,407,2003
+Colorado ,CO,323,2003
+Connecticut ,CT,363,2003
+Delaware ,DE,359,2003
+District of Columbia,DC,406,2003
+Florida ,FL,291,2003
+Georgia ,GA,288,2003
+Hawaii ,HI,321,2003
+Idaho ,ID,229,2003
+Illinois ,IL,302,2003
+Indiana ,IN,233,2003
+Iowa ,IA,218,2003
+Kansas ,KS,212,2003
+Kentucky ,KY,249,2003
+Louisiana ,LA,190,2003
+Maine ,ME,394,2003
+Maryland ,MD,339,2003
+Massachusetts ,MA,608,2003
+Michigan ,MI,300,2003
+Minnesota ,MN,311,2003
+Mississippi ,MS,207,2003
+Missouri ,MO,253,2003
+Montana ,MT,264,2003
+Nebraska ,NE,228,2003
+Nevada ,NV,249,2003
+New Hampshire ,NH,407,2003
+New Jersey ,NJ,412,2003
+New Mexico ,NM,234,2003
+New York ,NY,491,2003
+North Carolina ,NC,271,2003
+North Dakota ,ND,195,2003
+Ohio ,OH,251,2003
+Oklahoma ,OK,172,2003
+Oregon ,OR,300,2003
+Pennsylvania ,PA,301,2003
+Rhode Island ,RI,452,2003
+South Carolina ,SC,250,2003
+South Dakota ,SD,236,2003
+Tennessee ,TN,247,2003
+Texas ,TX,187,2003
+Utah ,UT,258,2003
+Vermont ,VT,337,2003
+Virginia ,VA,316,2003
+Washington ,WA,325,2003
+West Virginia ,WV,183,2003
+Wisconsin ,WI,272,2003
+Wyoming ,WY,188,2003
+Alabama ,AL,242,2004
+Alaska ,AK,225,2004
+Arizona ,AZ,291,2004
+Arkansas ,AR,223,2004
+California ,CA,508,2004
+Colorado ,CO,336,2004
+Connecticut ,CT,409,2004
+Delaware ,DE,413,2004
+District of Columbia,DC,497,2004
+Florida ,FL,349,2004
+Georgia ,GA,303,2004
+Hawaii ,HI,402,2004
+Idaho ,ID,252,2004
+Illinois ,IL,328,2004
+Indiana ,IN,242,2004
+Iowa ,IA,228,2004
+Kansas ,KS,222,2004
+Kentucky ,KY,263,2004
+Louisiana ,LA,201,2004
+Maine ,ME,444,2004
+Maryland ,MD,405,2004
+Massachusetts ,MA,674,2004
+Michigan ,MI,313,2004
+Minnesota ,MN,337,2004
+Mississippi ,MS,217,2004
+Missouri ,MO,270,2004
+Montana ,MT,292,2004
+Nebraska ,NE,240,2004
+Nevada ,NV,335,2004
+New Hampshire ,NH,452,2004
+New Jersey ,NJ,474,2004
+New Mexico ,NM,253,2004
+New York ,NY,556,2004
+North Carolina ,NC,285,2004
+North Dakota ,ND,212,2004
+Ohio ,OH,260,2004
+Oklahoma ,OK,180,2004
+Oregon ,OR,334,2004
+Pennsylvania ,PA,335,2004
+Rhode Island ,RI,530,2004
+South Carolina ,SC,264,2004
+South Dakota ,SD,250,2004
+Tennessee ,TN,259,2004
+Texas ,TX,194,2004
+Utah ,UT,271,2004
+Vermont ,VT,382,2004
+Virginia ,VA,370,2004
+Washington ,WA,362,2004
+West Virginia ,WV,197,2004
+Wisconsin ,WI,294,2004
+Wyoming ,WY,209,2004
+Alabama ,AL,262,2005
+Alaska ,AK,257,2005
+Arizona ,AZ,394,2005
+Arkansas ,AR,240,2005
+California ,CA,617,2005
+Colorado ,CO,355,2005
+Connecticut ,CT,457,2005
+Delaware ,DE,475,2005
+District of Columbia,DC,614,2005
+Florida ,FL,445,2005
+Georgia ,GA,322,2005
+Hawaii ,HI,501,2005
+Idaho ,ID,299,2005
+Illinois ,IL,358,2005
+Indiana ,IN,251,2005
+Iowa ,IA,241,2005
+Kansas ,KS,231,2005
+Kentucky ,KY,274,2005
+Louisiana ,LA,219,2005
+Maine ,ME,489,2005
+Maryland ,MD,493,2005
+Massachusetts ,MA,725,2005
+Michigan ,MI,321,2005
+Minnesota ,MN,362,2005
+Mississippi ,MS,233,2005
+Missouri ,MO,288,2005
+Montana ,MT,333,2005
+Nebraska ,NE,249,2005
+Nevada ,NV,396,2005
+New Hampshire ,NH,493,2005
+New Jersey ,NJ,547,2005
+New Mexico ,NM,290,2005
+New York ,NY,627,2005
+North Carolina ,NC,307,2005
+North Dakota ,ND,229,2005
+Ohio ,OH,268,2005
+Oklahoma ,OK,190,2005
+Oregon ,OR,400,2005
+Pennsylvania ,PA,376,2005
+Rhode Island ,RI,586,2005
+South Carolina ,SC,287,2005
+South Dakota ,SD,269,2005
+Tennessee ,TN,279,2005
+Texas ,TX,204,2005
+Utah ,UT,306,2005
+Vermont ,VT,432,2005
+Virginia ,VA,441,2005
+Washington ,WA,429,2005
+West Virginia ,WV,217,2005
+Wisconsin ,WI,316,2005
+Wyoming ,WY,235,2005
+Alabama ,AL,284,2006
+Alaska ,AK,269,2006
+Arizona ,AZ,431,2006
+Arkansas ,AR,255,2006
+California ,CA,644,2006
+Colorado ,CO,365,2006
+Connecticut ,CT,473,2006
+Delaware ,DE,512,2006
+District of Columbia,DC,657,2006
+Florida ,FL,486,2006
+Georgia ,GA,339,2006
+Hawaii ,HI,538,2006
+Idaho ,ID,342,2006
+Illinois ,IL,378,2006
+Indiana ,IN,256,2006
+Iowa ,IA,248,2006
+Kansas ,KS,242,2006
+Kentucky ,KY,285,2006
+Louisiana ,LA,243,2006
+Maine ,ME,511,2006
+Maryland ,MD,538,2006
+Massachusetts ,MA,723,2006
+Michigan ,MI,318,2006
+Minnesota ,MN,372,2006
+Mississippi ,MS,255,2006
+Missouri ,MO,300,2006
+Montana ,MT,369,2006
+Nebraska ,NE,255,2006
+Nevada ,NV,411,2006
+New Hampshire ,NH,502,2006
+New Jersey ,NJ,579,2006
+New Mexico ,NM,328,2006
+New York ,NY,660,2006
+North Carolina ,NC,332,2006
+North Dakota ,ND,242,2006
+Ohio ,OH,271,2006
+Oklahoma ,OK,200,2006
+Oregon ,OR,455,2006
+Pennsylvania ,PA,402,2006
+Rhode Island ,RI,601,2006
+South Carolina ,SC,311,2006
+South Dakota ,SD,284,2006
+Tennessee ,TN,301,2006
+Texas ,TX,218,2006
+Utah ,UT,360,2006
+Vermont ,VT,464,2006
+Virginia ,VA,475,2006
+Washington ,WA,487,2006
+West Virginia ,WV,229,2006
+Wisconsin ,WI,328,2006
+Wyoming ,WY,267,2006
+Alabama ,AL,297,2007
+Alaska ,AK,285,2007
+Arizona ,AZ,420,2007
+Arkansas ,AR,264,2007
+California ,CA,602,2007
+Colorado ,CO,370,2007
+Connecticut ,CT,477,2007
+Delaware ,DE,522,2007
+District of Columbia,DC,670,2007
+Florida ,FL,464,2007
+Georgia ,GA,348,2007
+Hawaii ,HI,549,2007
+Idaho ,ID,358,2007
+Illinois ,IL,385,2007
+Indiana ,IN,260,2007
+Iowa ,IA,255,2007
+Kansas ,KS,248,2007
+Kentucky ,KY,295,2007
+Louisiana ,LA,253,2007
+Maine ,ME,521,2007
+Maryland ,MD,542,2007
+Massachusetts ,MA,708,2007
+Michigan ,MI,305,2007
+Minnesota ,MN,368,2007
+Mississippi ,MS,266,2007
+Missouri ,MO,308,2007
+Montana ,MT,395,2007
+Nebraska ,NE,261,2007
+Nevada ,NV,387,2007
+New Hampshire ,NH,499,2007
+New Jersey ,NJ,577,2007
+New Mexico ,NM,346,2007
+New York ,NY,664,2007
+North Carolina ,NC,348,2007
+North Dakota ,ND,261,2007
+Ohio ,OH,270,2007
+Oklahoma ,OK,210,2007
+Oregon ,OR,472,2007
+Pennsylvania ,PA,413,2007
+Rhode Island ,RI,585,2007
+South Carolina ,SC,322,2007
+South Dakota ,SD,298,2007
+Tennessee ,TN,314,2007
+Texas ,TX,229,2007
+Utah ,UT,394,2007
+Vermont ,VT,475,2007
+Virginia ,VA,478,2007
+Washington ,WA,514,2007
+West Virginia ,WV,236,2007
+Wisconsin ,WI,334,2007
+Wyoming ,WY,290,2007
+Alabama ,AL,300,2008
+Alaska ,AK,282,2008
+Arizona ,AZ,352,2008
+Arkansas ,AR,262,2008
+California ,CA,464,2008
+Colorado ,CO,367,2008
+Connecticut ,CT,453,2008
+Delaware ,DE,494,2008
+District of Columbia,DC,615,2008
+Florida ,FL,368,2008
+Georgia ,GA,325,2008
+Hawaii ,HI,517,2008
+Idaho ,ID,348,2008
+Illinois ,IL,370,2008
+Indiana ,IN,258,2008
+Iowa ,IA,254,2008
+Kansas ,KS,248,2008
+Kentucky ,KY,296,2008
+Louisiana ,LA,253,2008
+Maine ,ME,504,2008
+Maryland ,MD,493,2008
+Massachusetts ,MA,669,2008
+Michigan ,MI,281,2008
+Minnesota ,MN,352,2008
+Mississippi ,MS,268,2008
+Missouri ,MO,303,2008
+Montana ,MT,394,2008
+Nebraska ,NE,258,2008
+Nevada ,NV,300,2008
+New Hampshire ,NH,470,2008
+New Jersey ,NJ,542,2008
+New Mexico ,NM,334,2008
+New York ,NY,630,2008
+North Carolina ,NC,346,2008
+North Dakota ,ND,268,2008
+Ohio ,OH,263,2008
+Oklahoma ,OK,211,2008
+Oregon ,OR,448,2008
+Pennsylvania ,PA,409,2008
+Rhode Island ,RI,530,2008
+South Carolina ,SC,325,2008
+South Dakota ,SD,304,2008
+Tennessee ,TN,315,2008
+Texas ,TX,233,2008
+Utah ,UT,378,2008
+Vermont ,VT,470,2008
+Virginia ,VA,449,2008
+Washington ,WA,491,2008
+West Virginia ,WV,229,2008
+Wisconsin ,WI,329,2008
+Wyoming ,WY,291,2008
