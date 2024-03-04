@@ -1,951 +1,951 @@
-State_Name,State_Abbrv,Price_Index,Cal_Year,Poverty_Rate
-Alabama ,AL,140,1990,
-Alaska ,AK,115,1990,
-Arizona ,AZ,132,1990,
-Arkansas ,AR,129,1990,
-California ,CA,228,1990,
-Colorado ,CO,130,1990,
-Connecticut ,CT,241,1990,
-Delaware ,DE,226,1990,
-Florida ,FL,152,1990,
-Georgia ,GA,162,1990,
-Hawaii ,HI,251,1990,
-Idaho ,ID,128,1990,
-Illinois ,IL,170,1990,
-Indiana ,IN,140,1990,
-Iowa ,IA,120,1990,
-Kansas ,KS,120,1990,
-Kentucky ,KY,142,1990,
-Louisiana ,LA,104,1990,
-Maine ,ME,236,1990,
-Maryland ,MD,201,1990,
-Massachusetts ,MA,291,1990,
-Michigan ,MI,147,1990,
-Minnesota ,MN,139,1990,
-Mississippi ,MS,122,1990,
-Missouri ,MO,145,1990,
-Montana ,MT,124,1990,
-Nebraska ,NE,127,1990,
-Nevada ,NV,146,1990,
-New Hampshire ,NH,216,1990,
-New Jersey ,NJ,230,1990,
-New Mexico ,NM,137,1990,
-New York ,NY,278,1990,
-North Carolina ,NC,164,1990,
-North Dakota ,ND,114,1990,
-Ohio ,OH,145,1990,
-Oklahoma ,OK,102,1990,
-Oregon ,OR,135,1990,
-Pennsylvania ,PA,198,1990,
-Rhode Island ,RI,254,1990,
-South Carolina ,SC,150,1990,
-South Dakota ,SD,123,1990,
-Tennessee ,TN,147,1990,
-Texas ,TX,117,1990,
-Utah ,UT,119,1990,
-Vermont ,VT,214,1990,
-Virginia ,VA,184,1990,
-Washington ,WA,178,1990,
-West Virginia ,WV,111,1990,
-Wisconsin ,WI,137,1990,
-Wyoming ,WY,91,1990,
-Alabama ,AL,147,1991,
-Alaska ,AK,127,1991,
-Arizona ,AZ,139,1991,
-Arkansas ,AR,134,1991,
-California ,CA,228,1991,
-Colorado ,CO,136,1991,
-Connecticut ,CT,237,1991,
-Delaware ,DE,233,1991,
-Florida ,FL,157,1991,
-Georgia ,GA,165,1991,
-Hawaii ,HI,263,1991,
-Idaho ,ID,138,1991,
-Illinois ,IL,177,1991,
-Indiana ,IN,147,1991,
-Iowa ,IA,126,1991,
-Kansas ,KS,123,1991,
-Kentucky ,KY,148,1991,
-Louisiana ,LA,108,1991,
-Maine ,ME,232,1991,
-Maryland ,MD,209,1991,
-Massachusetts ,MA,285,1991,
-Michigan ,MI,154,1991,
-Minnesota ,MN,145,1991,
-Mississippi ,MS,126,1991,
-Missouri ,MO,149,1991,
-Montana ,MT,132,1991,
-Nebraska ,NE,132,1991,
-Nevada ,NV,154,1991,
-New Hampshire ,NH,206,1991,
-New Jersey ,NJ,229,1991,
-New Mexico ,NM,142,1991,
-New York ,NY,281,1991,
-North Carolina ,NC,168,1991,
-North Dakota ,ND,118,1991,
-Ohio ,OH,152,1991,
-Oklahoma ,OK,108,1991,
-Oregon ,OR,146,1991,
-Pennsylvania ,PA,205,1991,
-Rhode Island ,RI,249,1991,
-South Carolina ,SC,157,1991,
-South Dakota ,SD,131,1991,
-Tennessee ,TN,152,1991,
-Texas ,TX,121,1991,
-Utah ,UT,127,1991,
-Vermont ,VT,211,1991,
-Virginia ,VA,188,1991,
-Washington ,WA,188,1991,
-West Virginia ,WV,118,1991,
-Wisconsin ,WI,145,1991,
-Wyoming ,WY,97,1991,
-Alabama ,AL,152,1992,
-Alaska ,AK,132,1992,
-Arizona ,AZ,141,1992,
-Arkansas ,AR,138,1992,
-California ,CA,222,1992,
-Colorado ,CO,147,1992,
-Connecticut ,CT,234,1992,
-Delaware ,DE,235,1992,
-Florida ,FL,161,1992,
-Georgia ,GA,170,1992,
-Hawaii ,HI,265,1992,
-Idaho ,ID,148,1992,
-Illinois ,IL,183,1992,
-Indiana ,IN,153,1992,
-Iowa ,IA,132,1992,
-Kansas ,KS,126,1992,
-Kentucky ,KY,154,1992,
-Louisiana ,LA,113,1992,
-Maine ,ME,231,1992,
-Maryland ,MD,211,1992,
-Massachusetts ,MA,283,1992,
-Michigan ,MI,158,1992,
-Minnesota ,MN,149,1992,
-Mississippi ,MS,130,1992,
-Missouri ,MO,152,1992,
-Montana ,MT,145,1992,
-Nebraska ,NE,138,1992,
-Nevada ,NV,159,1992,
-New Hampshire ,NH,200,1992,
-New Jersey ,NJ,232,1992,
-New Mexico ,NM,149,1992,
-New York ,NY,287,1992,
-North Carolina ,NC,173,1992,
-North Dakota ,ND,124,1992,
-Ohio ,OH,158,1992,
-Oklahoma ,OK,110,1992,
-Oregon ,OR,157,1992,
-Pennsylvania ,PA,209,1992,
-Rhode Island ,RI,246,1992,
-South Carolina ,SC,161,1992,
-South Dakota ,SD,140,1992,
-Tennessee ,TN,156,1992,
-Texas ,TX,125,1992,
-Utah ,UT,137,1992,
-Vermont ,VT,214,1992,
-Virginia ,VA,191,1992,
-Washington ,WA,195,1992,
-West Virginia ,WV,123,1992,
-Wisconsin ,WI,153,1992,
-Wyoming ,WY,103,1992,
-Alabama ,AL,159,1993,
-Alaska ,AK,135,1993,
-Arizona ,AZ,146,1993,
-Arkansas ,AR,146,1993,
-California ,CA,214,1993,
-Colorado ,CO,162,1993,
-Connecticut ,CT,232,1993,
-Delaware ,DE,235,1993,
-Florida ,FL,166,1993,
-Georgia ,GA,175,1993,
-Hawaii ,HI,266,1993,
-Idaho ,ID,161,1993,
-Illinois ,IL,190,1993,
-Indiana ,IN,159,1993,
-Iowa ,IA,139,1993,
-Kansas ,KS,131,1993,
-Kentucky ,KY,159,1993,
-Louisiana ,LA,120,1993,
-Maine ,ME,231,1993,
-Maryland ,MD,212,1993,
-Massachusetts ,MA,285,1993,
-Michigan ,MI,163,1993,
-Minnesota ,MN,156,1993,
-Mississippi ,MS,135,1993,
-Missouri ,MO,156,1993,
-Montana ,MT,159,1993,
-Nebraska ,NE,146,1993,
-Nevada ,NV,163,1993,
-New Hampshire ,NH,202,1993,
-New Jersey ,NJ,235,1993,
-New Mexico ,NM,161,1993,
-New York ,NY,288,1993,
-North Carolina ,NC,178,1993,
-North Dakota ,ND,131,1993,
-Ohio ,OH,165,1993,
-Oklahoma ,OK,116,1993,
-Oregon ,OR,170,1993,
-Pennsylvania ,PA,213,1993,
-Rhode Island ,RI,246,1993,
-South Carolina ,SC,165,1993,
-South Dakota ,SD,150,1993,
-Tennessee ,TN,163,1993,
-Texas ,TX,130,1993,
-Utah ,UT,155,1993,
-Vermont ,VT,217,1993,
-Virginia ,VA,194,1993,
-Washington ,WA,203,1993,
-West Virginia ,WV,128,1993,
-Wisconsin ,WI,160,1993,
-Wyoming ,WY,112,1993,
-Alabama ,AL,162,1994,
-Alaska ,AK,140,1994,
-Arizona ,AZ,154,1994,
-Arkansas ,AR,153,1994,
-California ,CA,200,1994,
-Colorado ,CO,180,1994,
-Connecticut ,CT,219,1994,
-Delaware ,DE,228,1994,
-Florida ,FL,164,1994,
-Georgia ,GA,178,1994,
-Hawaii ,HI,259,1994,
-Idaho ,ID,171,1994,
-Illinois ,IL,197,1994,
-Indiana ,IN,165,1994,
-Iowa ,IA,148,1994,
-Kansas ,KS,140,1994,
-Kentucky ,KY,170,1994,
-Louisiana ,LA,125,1994,
-Maine ,ME,220,1994,
-Maryland ,MD,207,1994,
-Massachusetts ,MA,280,1994,
-Michigan ,MI,173,1994,
-Minnesota ,MN,161,1994,
-Mississippi ,MS,143,1994,
-Missouri ,MO,163,1994,
-Montana ,MT,173,1994,
-Nebraska ,NE,156,1994,
-Nevada ,NV,163,1994,
-New Hampshire ,NH,195,1994,
-New Jersey ,NJ,229,1994,
-New Mexico ,NM,177,1994,
-New York ,NY,275,1994,
-North Carolina ,NC,187,1994,
-North Dakota ,ND,138,1994,
-Ohio ,OH,172,1994,
-Oklahoma ,OK,119,1994,
-Oregon ,OR,188,1994,
-Pennsylvania ,PA,208,1994,
-Rhode Island ,RI,231,1994,
-South Carolina ,SC,168,1994,
-South Dakota ,SD,161,1994,
-Tennessee ,TN,170,1994,
-Texas ,TX,130,1994,
-Utah ,UT,179,1994,
-Vermont ,VT,215,1994,
-Virginia ,VA,193,1994,
-Washington ,WA,210,1994,
-West Virginia ,WV,134,1994,
-Wisconsin ,WI,174,1994,
-Wyoming ,WY,122,1994,
-Alabama ,AL,171,1995,
-Alaska ,AK,147,1995,
-Arizona ,AZ,163,1995,
-Arkansas ,AR,160,1995,
-California ,CA,203,1995,
-Colorado ,CO,194,1995,
-Connecticut ,CT,226,1995,
-Delaware ,DE,234,1995,
-Florida ,FL,172,1995,
-Georgia ,GA,187,1995,
-Hawaii ,HI,261,1995,
-Idaho ,ID,181,1995,
-Illinois ,IL,206,1995,
-Indiana ,IN,175,1995,
-Iowa ,IA,157,1995,
-Kansas ,KS,148,1995,
-Kentucky ,KY,178,1995,
-Louisiana ,LA,133,1995,
-Maine ,ME,231,1995,
-Maryland ,MD,214,1995,
-Massachusetts ,MA,293,1995,
-Michigan ,MI,186,1995,
-Minnesota ,MN,171,1995,
-Mississippi ,MS,150,1995,
-Missouri ,MO,171,1995,
-Montana ,MT,184,1995,
-Nebraska ,NE,164,1995,
-Nevada ,NV,172,1995,
-New Hampshire ,NH,205,1995,
-New Jersey ,NJ,236,1995,
-New Mexico ,NM,188,1995,
-New York ,NY,282,1995,
-North Carolina ,NC,196,1995,
-North Dakota ,ND,144,1995,
-Ohio ,OH,181,1995,
-Oklahoma ,OK,125,1995,
-Oregon ,OR,205,1995,
-Pennsylvania ,PA,216,1995,
-Rhode Island ,RI,242,1995,
-South Carolina ,SC,176,1995,
-South Dakota ,SD,168,1995,
-Tennessee ,TN,181,1995,
-Texas ,TX,135,1995,
-Utah ,UT,199,1995,
-Vermont ,VT,219,1995,
-Virginia ,VA,199,1995,
-Washington ,WA,219,1995,
-West Virginia ,WV,140,1995,
-Wisconsin ,WI,185,1995,
-Wyoming ,WY,131,1995,
-Alabama ,AL,177,1996,
-Alaska ,AK,154,1996,
-Arizona ,AZ,169,1996,
-Arkansas ,AR,164,1996,
-California ,CA,201,1996,
-Colorado ,CO,203,1996,
-Connecticut ,CT,224,1996,
-Delaware ,DE,236,1996,
-Florida ,FL,173,1996,
-Georgia ,GA,195,1996,
-Hawaii ,HI,238,1996,
-Idaho ,ID,184,1996,
-Illinois ,IL,212,1996,
-Indiana ,IN,182,1996,
-Iowa ,IA,163,1996,
-Kansas ,KS,154,1996,
-Kentucky ,KY,186,1996,
-Louisiana ,LA,139,1996,
-Maine ,ME,236,1996,
-Maryland ,MD,214,1996,
-Massachusetts ,MA,302,1996,
-Michigan ,MI,201,1996,
-Minnesota ,MN,178,1996,
-Mississippi ,MS,156,1996,
-Missouri ,MO,178,1996,
-Montana ,MT,192,1996,
-Nebraska ,NE,173,1996,
-Nevada ,NV,175,1996,
-New Hampshire ,NH,209,1996,
-New Jersey ,NJ,236,1996,
-New Mexico ,NM,189,1996,
-New York ,NY,283,1996,
-North Carolina ,NC,204,1996,
-North Dakota ,ND,149,1996,
-Ohio ,OH,189,1996,
-Oklahoma ,OK,128,1996,
-Oregon ,OR,219,1996,
-Pennsylvania ,PA,217,1996,
-Rhode Island ,RI,238,1996,
-South Carolina ,SC,184,1996,
-South Dakota ,SD,172,1996,
-Tennessee ,TN,190,1996,
-Texas ,TX,137,1996,
-Utah ,UT,213,1996,
-Vermont ,VT,218,1996,
-Virginia ,VA,201,1996,
-Washington ,WA,224,1996,
-West Virginia ,WV,143,1996,
-Wisconsin ,WI,193,1996,
-Wyoming ,WY,135,1996,
-Alabama ,AL,185,1997,
-Alaska ,AK,158,1997,
-Arizona ,AZ,177,1997,
-Arkansas ,AR,171,1997,
-California ,CA,212,1997,
-Colorado ,CO,215,1997,
-Connecticut ,CT,231,1997,
-Delaware ,DE,241,1997,
-Florida ,FL,181,1997,
-Georgia ,GA,207,1997,
-Hawaii ,HI,229,1997,
-Idaho ,ID,191,1997,
-Illinois ,IL,219,1997,
-Indiana ,IN,191,1997,
-Iowa ,IA,170,1997,
-Kansas ,KS,161,1997,
-Kentucky ,KY,194,1997,
-Louisiana ,LA,146,1997,
-Maine ,ME,244,1997,
-Maryland ,MD,219,1997,
-Massachusetts ,MA,319,1997,
-Michigan ,MI,215,1997,
-Minnesota ,MN,188,1997,
-Mississippi ,MS,162,1997,
-Missouri ,MO,186,1997,
-Montana ,MT,200,1997,
-Nebraska ,NE,183,1997,
-Nevada ,NV,180,1997,
-New Hampshire ,NH,219,1997,
-New Jersey ,NJ,244,1997,
-New Mexico ,NM,194,1997,
-New York ,NY,292,1997,
-North Carolina ,NC,216,1997,
-North Dakota ,ND,154,1997,
-Ohio ,OH,198,1997,
-Oklahoma ,OK,134,1997,
-Oregon ,OR,232,1997,
-Pennsylvania ,PA,223,1997,
-Rhode Island ,RI,246,1997,
-South Carolina ,SC,193,1997,
-South Dakota ,SD,181,1997,
-Tennessee ,TN,199,1997,
-Texas ,TX,141,1997,
-Utah ,UT,226,1997,
-Vermont ,VT,223,1997,
-Virginia ,VA,207,1997,
-Washington ,WA,237,1997,
-West Virginia ,WV,151,1997,
-Wisconsin ,WI,202,1997,
-Wyoming ,WY,141,1997,
-Alabama ,AL,194,1998,
-Alaska ,AK,162,1998,
-Arizona ,AZ,186,1998,
-Arkansas ,AR,177,1998,
-California ,CA,231,1998,
-Colorado ,CO,228,1998,
-Connecticut ,CT,244,1998,
-Delaware ,DE,248,1998,
-Florida ,FL,190,1998,
-Georgia ,GA,220,1998,
-Hawaii ,HI,230,1998,
-Idaho ,ID,197,1998,
-Illinois ,IL,226,1998,
-Indiana ,IN,199,1998,
-Iowa ,IA,179,1998,
-Kansas ,KS,169,1998,
-Kentucky ,KY,203,1998,
-Louisiana ,LA,153,1998,
-Maine ,ME,256,1998,
-Maryland ,MD,225,1998,
-Massachusetts ,MA,343,1998,
-Michigan ,MI,228,1998,
-Minnesota ,MN,199,1998,
-Mississippi ,MS,170,1998,
-Missouri ,MO,193,1998,
-Montana ,MT,204,1998,
-Nebraska ,NE,191,1998,
-Nevada ,NV,185,1998,
-New Hampshire ,NH,235,1998,
-New Jersey ,NJ,254,1998,
-New Mexico ,NM,200,1998,
-New York ,NY,307,1998,
-North Carolina ,NC,225,1998,
-North Dakota ,ND,161,1998,
-Ohio ,OH,207,1998,
-Oklahoma ,OK,140,1998,
-Oregon ,OR,242,1998,
-Pennsylvania ,PA,231,1998,
-Rhode Island ,RI,254,1998,
-South Carolina ,SC,203,1998,
-South Dakota ,SD,187,1998,
-Tennessee ,TN,209,1998,
-Texas ,TX,148,1998,
-Utah ,UT,236,1998,
-Vermont ,VT,230,1998,
-Virginia ,VA,213,1998,
-Washington ,WA,252,1998,
-West Virginia ,WV,157,1998,
-Wisconsin ,WI,208,1998,
-Wyoming ,WY,144,1998,
-Alabama ,AL,197,1999,
-Alaska ,AK,166,1999,
-Arizona ,AZ,195,1999,
-Arkansas ,AR,180,1999,
-California ,CA,249,1999,
-Colorado ,CO,251,1999,
-Connecticut ,CT,258,1999,
-Delaware ,DE,260,1999,
-Florida ,FL,197,1999,
-Georgia ,GA,233,1999,
-Hawaii ,HI,224,1999,
-Idaho ,ID,197,1999,
-Illinois ,IL,236,1999,
-Indiana ,IN,203,1999,
-Iowa ,IA,185,1999,
-Kansas ,KS,177,1999,
-Kentucky ,KY,211,1999,
-Louisiana ,LA,158,1999,
-Maine ,ME,272,1999,
-Maryland ,MD,232,1999,
-Massachusetts ,MA,386,1999,
-Michigan ,MI,244,1999,
-Minnesota ,MN,217,1999,
-Mississippi ,MS,174,1999,
-Missouri ,MO,203,1999,
-Montana ,MT,209,1999,
-Nebraska ,NE,197,1999,
-Nevada ,NV,185,1999,
-New Hampshire ,NH,258,1999,
-New Jersey ,NJ,269,1999,
-New Mexico ,NM,200,1999,
-New York ,NY,331,1999,
-North Carolina ,NC,232,1999,
-North Dakota ,ND,161,1999,
-Ohio ,OH,213,1999,
-Oklahoma ,OK,144,1999,
-Oregon ,OR,245,1999,
-Pennsylvania ,PA,235,1999,
-Rhode Island ,RI,268,1999,
-South Carolina ,SC,213,1999,
-South Dakota ,SD,194,1999,
-Tennessee ,TN,213,1999,
-Texas ,TX,157,1999,
-Utah ,UT,234,1999,
-Vermont ,VT,242,1999,
-Virginia ,VA,223,1999,
-Washington ,WA,264,1999,
-West Virginia ,WV,157,1999,
-Wisconsin ,WI,219,1999,
-Wyoming ,WY,148,1999,
-Alabama ,AL,204,2000,0.146
-Alaska ,AK,170,2000,0.085
-Arizona ,AZ,207,2000,0.125
-Arkansas ,AR,184,2000,0.15
-California ,CA,285,2000,0.127
-Colorado ,CO,280,2000,0.089
-Connecticut ,CT,276,2000,0.073
-Delaware ,DE,279,2000,0.087
-Florida ,FL,214,2000,0.117
-Georgia ,GA,250,2000,0.123
-Hawaii ,HI,238,2000,0.099
-Idaho ,ID,201,2000,0.112
-Illinois ,IL,252,2000,0.1
-Indiana ,IN,211,2000,0.088
-Iowa ,IA,192,2000,0.083
-Kansas ,KS,186,2000,0.089
-Kentucky ,KY,221,2000,0.139
-Louisiana ,LA,164,2000,0.173
-Maine ,ME,295,2000,0.099
-Maryland ,MD,248,2000,0.079
-Massachusetts ,MA,440,2000,0.084
-Michigan ,MI,264,2000,0.097
-Minnesota ,MN,239,2000,0.069
-Mississippi ,MS,186,2000,0.176
-Missouri ,MO,215,2000,0.106
-Montana ,MT,218,2000,0.133
-Nebraska ,NE,205,2000,0.089
-Nevada ,NV,194,2000,0.094
-New Hampshire ,NH,296,2000,0.056
-New Jersey ,NJ,295,2000,0.078
-New Mexico ,NM,203,2000,0.173
-New York ,NY,361,2000,0.132
-North Carolina ,NC,243,2000,0.117
-North Dakota ,ND,167,2000,0.104
-Ohio ,OH,223,2000,0.098
-Oklahoma ,OK,150,2000,0.138
-Oregon ,OR,256,2000,0.106
-Pennsylvania ,PA,244,2000,0.095
-Rhode Island ,RI,296,2000,0.102
-South Carolina ,SC,220,2000,0.128
-South Dakota ,SD,203,2000,0.114
-Tennessee ,TN,221,2000,0.126
-Texas ,TX,166,2000,0.146
-Utah ,UT,242,2000,0.088
-Vermont ,VT,263,2000,0.088
-Virginia ,VA,243,2000,0.089
-Washington ,WA,279,2000,0.096
-West Virginia ,WV,161,2000,0.155
-Wisconsin ,WI,231,2000,0.081
-Wyoming ,WY,157,2000,0.104
-Alabama ,AL,215,2001,0.157
-Alaska ,AK,180,2001,0.087
-Arizona ,AZ,220,2001,0.132
-Arkansas ,AR,194,2001,0.159
-California ,CA,314,2001,0.129
-Colorado ,CO,302,2001,0.087
-Connecticut ,CT,302,2001,0.071
-Delaware ,DE,300,2001,0.084
-Florida ,FL,236,2001,0.126
-Georgia ,GA,267,2001,0.127
-Hawaii ,HI,258,2001,0.104
-Idaho ,ID,213,2001,0.115
-Illinois ,IL,267,2001,0.101
-Indiana ,IN,221,2001,0.09
-Iowa ,IA,202,2001,0.082
-Kansas ,KS,196,2001,0.095
-Kentucky ,KY,231,2001,0.147
-Louisiana ,LA,173,2001,0.183
-Maine ,ME,324,2001,0.102
-Maryland ,MD,269,2001,0.077
-Massachusetts ,MA,492,2001,0.082
-Michigan ,MI,277,2001,0.098
-Minnesota ,MN,263,2001,0.072
-Mississippi ,MS,196,2001,0.19
-Missouri ,MO,228,2001,0.11
-Montana ,MT,229,2001,0.14
-Nebraska ,NE,213,2001,0.093
-Nevada ,NV,207,2001,0.093
-New Hampshire ,NH,330,2001,0.06
-New Jersey ,NJ,326,2001,0.078
-New Mexico ,NM,212,2001,0.18
-New York ,NY,395,2001,0.137
-North Carolina ,NC,255,2001,0.119
-North Dakota ,ND,175,2001,0.114
-Ohio ,OH,234,2001,0.103
-Oklahoma ,OK,159,2001,0.144
-Oregon ,OR,270,2001,0.111
-Pennsylvania ,PA,260,2001,0.1
-Rhode Island ,RI,332,2001,0.102
-South Carolina ,SC,233,2001,0.138
-South Dakota ,SD,214,2001,0.117
-Tennessee ,TN,232,2001,0.132
-Texas ,TX,176,2001,0.15
-Utah ,UT,252,2001,0.094
-Vermont ,VT,284,2001,0.089
-Virginia ,VA,264,2001,0.088
-Washington ,WA,294,2001,0.099
-West Virginia ,WV,170,2001,0.167
-Wisconsin ,WI,243,2001,0.081
-Wyoming ,WY,165,2001,0.105
-Alabama ,AL,223,2002,0.154
-Alaska ,AK,189,2002,0.093
-Arizona ,AZ,233,2002,0.136
-Arkansas ,AR,201,2002,0.163
-California ,CA,356,2002,0.133
-Colorado ,CO,315,2002,0.095
-Connecticut ,CT,333,2002,0.078
-Delaware ,DE,326,2002,0.093
-Florida ,FL,261,2002,0.128
-Georgia ,GA,279,2002,0.13
-Hawaii ,HI,279,2002,0.11
-Idaho ,ID,220,2002,0.117
-Illinois ,IL,283,2002,0.113
-Indiana ,IN,227,2002,0.096
-Iowa ,IA,210,2002,0.091
-Kansas ,KS,204,2002,0.1
-Kentucky ,KY,239,2002,0.148
-Louisiana ,LA,181,2002,0.181
-Maine ,ME,357,2002,0.11
-Maryland ,MD,300,2002,0.083
-Massachusetts ,MA,553,2002,0.09
-Michigan ,MI,289,2002,0.109
-Minnesota ,MN,286,2002,0.075
-Mississippi ,MS,201,2002,0.189
-Missouri ,MO,240,2002,0.113
-Montana ,MT,243,2002,0.14
-Nebraska ,NE,220,2002,0.1
-Nevada ,NV,220,2002,0.101
-New Hampshire ,NH,370,2002,0.063
-New Jersey ,NJ,367,2002,0.083
-New Mexico ,NM,221,2002,0.177
-New York ,NY,440,2002,0.139
-North Carolina ,NC,263,2002,0.129
-North Dakota ,ND,185,2002,0.111
-Ohio ,OH,242,2002,0.102
-Oklahoma ,OK,165,2002,0.145
-Oregon ,OR,282,2002,0.113
-Pennsylvania ,PA,279,2002,0.1
-Rhode Island ,RI,387,2002,0.11
-South Carolina ,SC,242,2002,0.14
-South Dakota ,SD,224,2002,0.124
-Tennessee ,TN,239,2002,0.136
-Texas ,TX,183,2002,0.154
-Utah ,UT,255,2002,0.097
-Vermont ,VT,304,2002,0.093
-Virginia ,VA,288,2002,0.096
-Washington ,WA,308,2002,0.103
-West Virginia ,WV,177,2002,0.161
-Wisconsin ,WI,254,2002,0.085
-Wyoming ,WY,176,2002,0.106
-Alabama ,AL,230,2003,0.153
-Alaska ,AK,205,2003,0.098
-Arizona ,AZ,250,2003,0.139
-Arkansas ,AR,209,2003,0.16
-California ,CA,407,2003,0.137
-Colorado ,CO,323,2003,0.1
-Connecticut ,CT,363,2003,0.08
-Delaware ,DE,359,2003,0.09
-Florida ,FL,291,2003,0.13
-Georgia ,GA,288,2003,0.134
-Hawaii ,HI,321,2003,0.108
-Idaho ,ID,229,2003,0.117
-Illinois ,IL,302,2003,0.114
-Indiana ,IN,233,2003,0.1
-Iowa ,IA,218,2003,0.091
-Kansas ,KS,212,2003,0.104
-Kentucky ,KY,249,2003,0.15
-Louisiana ,LA,190,2003,0.181
-Maine ,ME,394,2003,0.107
-Maryland ,MD,339,2003,0.088
-Massachusetts ,MA,608,2003,0.095
-Michigan ,MI,300,2003,0.11
-Minnesota ,MN,311,2003,0.08
-Mississippi ,MS,207,2003,0.183
-Missouri ,MO,253,2003,0.116
-Montana ,MT,264,2003,0.142
-Nebraska ,NE,228,2003,0.099
-Nevada ,NV,249,2003,0.11
-New Hampshire ,NH,407,2003,0.064
-New Jersey ,NJ,412,2003,0.089
-New Mexico ,NM,234,2003,0.177
-New York ,NY,491,2003,0.143
-North Carolina ,NC,271,2003,0.134
-North Dakota ,ND,195,2003,0.105
-Ohio ,OH,251,2003,0.107
-Oklahoma ,OK,172,2003,0.147
-Oregon ,OR,300,2003,0.12
-Pennsylvania ,PA,301,2003,0.106
-Rhode Island ,RI,452,2003,0.113
-South Carolina ,SC,250,2003,0.138
-South Dakota ,SD,236,2003,0.123
-Tennessee ,TN,247,2003,0.135
-Texas ,TX,187,2003,0.162
-Utah ,UT,258,2003,0.1
-Vermont ,VT,337,2003,0.092
-Virginia ,VA,316,2003,0.1
-Washington ,WA,325,2003,0.11
-West Virginia ,WV,183,2003,0.163
-Wisconsin ,WI,272,2003,0.089
-Wyoming ,WY,188,2003,0.108
-Alabama ,AL,242,2004,0.161
-Alaska ,AK,225,2004,0.1
-Arizona ,AZ,291,2004,0.146
-Arkansas ,AR,223,2004,0.156
-California ,CA,508,2004,0.132
-Colorado ,CO,336,2004,0.102
-Connecticut ,CT,409,2004,0.091
-Delaware ,DE,413,2004,0.096
-Florida ,FL,349,2004,0.119
-Georgia ,GA,303,2004,0.137
-Hawaii ,HI,402,2004,0.09
-Idaho ,ID,252,2004,0.115
-Illinois ,IL,328,2004,0.119
-Indiana ,IN,242,2004,0.111
-Iowa ,IA,228,2004,0.105
-Kansas ,KS,222,2004,0.111
-Kentucky ,KY,263,2004,0.163
-Louisiana ,LA,201,2004,0.192
-Maine ,ME,444,2004,0.115
-Maryland ,MD,405,2004,0.092
-Massachusetts ,MA,674,2004,0.099
-Michigan ,MI,313,2004,0.125
-Minnesota ,MN,337,2004,0.081
-Mississippi ,MS,217,2004,0.193
-Missouri ,MO,270,2004,0.13
-Montana ,MT,292,2004,0.136
-Nebraska ,NE,240,2004,0.1
-Nevada ,NV,335,2004,0.111
-New Hampshire ,NH,452,2004,0.066
-New Jersey ,NJ,474,2004,0.084
-New Mexico ,NM,253,2004,0.167
-New York ,NY,556,2004,0.145
-North Carolina ,NC,285,2004,0.138
-North Dakota ,ND,212,2004,0.108
-Ohio ,OH,260,2004,0.117
-Oklahoma ,OK,180,2004,0.14
-Oregon ,OR,334,2004,0.129
-Pennsylvania ,PA,335,2004,0.112
-Rhode Island ,RI,530,2004,0.116
-South Carolina ,SC,264,2004,0.15
-South Dakota ,SD,250,2004,0.129
-Tennessee ,TN,259,2004,0.15
-Texas ,TX,194,2004,0.162
-Utah ,UT,271,2004,0.103
-Vermont ,VT,382,2004,0.087
-Virginia ,VA,370,2004,0.095
-Washington ,WA,362,2004,0.116
-West Virginia ,WV,197,2004,0.162
-Wisconsin ,WI,294,2004,0.109
-Wyoming ,WY,209,2004,0.103
-Alabama ,AL,262,2005,0.169
-Alaska ,AK,257,2005,0.108
-Arizona ,AZ,394,2005,0.144
-Arkansas ,AR,240,2005,0.172
-California ,CA,617,2005,0.133
-Colorado ,CO,355,2005,0.109
-Connecticut ,CT,457,2005,0.083
-Delaware ,DE,475,2005,0.103
-Florida ,FL,445,2005,0.128
-Georgia ,GA,322,2005,0.145
-Hawaii ,HI,501,2005,0.099
-Idaho ,ID,299,2005,0.134
-Illinois ,IL,358,2005,0.12
-Indiana ,IN,251,2005,0.122
-Iowa ,IA,241,2005,0.108
-Kansas ,KS,231,2005,0.117
-Kentucky ,KY,274,2005,0.169
-Louisiana ,LA,219,2005,0.202
-Maine ,ME,489,2005,0.123
-Maryland ,MD,493,2005,0.083
-Massachusetts ,MA,725,2005,0.103
-Michigan ,MI,321,2005,0.131
-Minnesota ,MN,362,2005,0.092
-Mississippi ,MS,233,2005,0.21
-Missouri ,MO,288,2005,0.136
-Montana ,MT,333,2005,0.146
-Nebraska ,NE,249,2005,0.11
-Nevada ,NV,396,2005,0.111
-New Hampshire ,NH,493,2005,0.076
-New Jersey ,NJ,547,2005,0.087
-New Mexico ,NM,290,2005,0.184
-New York ,NY,627,2005,0.139
-North Carolina ,NC,307,2005,0.149
-North Dakota ,ND,229,2005,0.116
-Ohio ,OH,268,2005,0.13
-Oklahoma ,OK,190,2005,0.164
-Oregon ,OR,400,2005,0.141
-Pennsylvania ,PA,376,2005,0.119
-Rhode Island ,RI,586,2005,0.119
-South Carolina ,SC,287,2005,0.156
-South Dakota ,SD,269,2005,0.136
-Tennessee ,TN,279,2005,0.156
-Texas ,TX,204,2005,0.175
-Utah ,UT,306,2005,0.105
-Vermont ,VT,432,2005,0.104
-Virginia ,VA,441,2005,0.1
-Washington ,WA,429,2005,0.12
-West Virginia ,WV,217,2005,0.18
-Wisconsin ,WI,316,2005,0.102
-Wyoming ,WY,235,2005,0.106
-Alabama ,AL,284,2006,0.166
-Alaska ,AK,269,2006,0.109
-Arizona ,AZ,431,2006,0.142
-Arkansas ,AR,255,2006,0.173
-California ,CA,644,2006,0.131
-Colorado ,CO,365,2006,0.116
-Connecticut ,CT,473,2006,0.083
-Delaware ,DE,512,2006,0.107
-Florida ,FL,486,2006,0.126
-Georgia ,GA,339,2006,0.148
-Hawaii ,HI,538,2006,0.094
-Idaho ,ID,342,2006,0.128
-Illinois ,IL,378,2006,0.123
-Indiana ,IN,256,2006,0.125
-Iowa ,IA,248,2006,0.11
-Kansas ,KS,242,2006,0.122
-Kentucky ,KY,285,2006,0.17
-Louisiana ,LA,243,2006,0.194
-Maine ,ME,511,2006,0.127
-Maryland ,MD,538,2006,0.08
-Massachusetts ,MA,723,2006,0.1
-Michigan ,MI,318,2006,0.135
-Minnesota ,MN,372,2006,0.097
-Mississippi ,MS,255,2006,0.209
-Missouri ,MO,300,2006,0.138
-Montana ,MT,369,2006,0.144
-Nebraska ,NE,255,2006,0.113
-Nevada ,NV,411,2006,0.105
-New Hampshire ,NH,502,2006,0.08
-New Jersey ,NJ,579,2006,0.087
-New Mexico ,NM,328,2006,0.183
-New York ,NY,660,2006,0.142
-North Carolina ,NC,332,2006,0.146
-North Dakota ,ND,242,2006,0.117
-Ohio ,OH,271,2006,0.132
-Oklahoma ,OK,200,2006,0.167
-Oregon ,OR,455,2006,0.134
-Pennsylvania ,PA,402,2006,0.12
-Rhode Island ,RI,601,2006,0.115
-South Carolina ,SC,311,2006,0.157
-South Dakota ,SD,284,2006,0.136
-Tennessee ,TN,301,2006,0.161
-Texas ,TX,218,2006,0.169
-Utah ,UT,360,2006,0.107
-Vermont ,VT,464,2006,0.102
-Virginia ,VA,475,2006,0.096
-Washington ,WA,487,2006,0.118
-West Virginia ,WV,229,2006,0.176
-Wisconsin ,WI,328,2006,0.109
-Wyoming ,WY,267,2006,0.103
-Alabama ,AL,297,2007,0.166
-Alaska ,AK,285,2007,0.098
-Arizona ,AZ,420,2007,0.141
-Arkansas ,AR,264,2007,0.176
-California ,CA,602,2007,0.124
-Colorado ,CO,370,2007,0.115
-Connecticut ,CT,477,2007,0.079
-Delaware ,DE,522,2007,0.103
-Florida ,FL,464,2007,0.121
-Georgia ,GA,348,2007,0.143
-Hawaii ,HI,549,2007,0.085
-Idaho ,ID,358,2007,0.121
-Illinois ,IL,385,2007,0.119
-Indiana ,IN,260,2007,0.123
-Iowa ,IA,255,2007,0.11
-Kansas ,KS,248,2007,0.112
-Kentucky ,KY,295,2007,0.172
-Louisiana ,LA,253,2007,0.188
-Maine ,ME,521,2007,0.122
-Maryland ,MD,542,2007,0.083
-Massachusetts ,MA,708,2007,0.1
-Michigan ,MI,305,2007,0.139
-Minnesota ,MN,368,2007,0.095
-Mississippi ,MS,266,2007,0.207
-Missouri ,MO,308,2007,0.133
-Montana ,MT,395,2007,0.141
-Nebraska ,NE,261,2007,0.111
-Nevada ,NV,387,2007,0.106
-New Hampshire ,NH,499,2007,0.073
-New Jersey ,NJ,577,2007,0.085
-New Mexico ,NM,346,2007,0.179
-New York ,NY,664,2007,0.138
-North Carolina ,NC,348,2007,0.143
-North Dakota ,ND,261,2007,0.118
-Ohio ,OH,270,2007,0.131
-Oklahoma ,OK,210,2007,0.158
-Oregon ,OR,472,2007,0.13
-Pennsylvania ,PA,413,2007,0.116
-Rhode Island ,RI,585,2007,0.119
-South Carolina ,SC,322,2007,0.151
-South Dakota ,SD,298,2007,0.132
-Tennessee ,TN,314,2007,0.158
-Texas ,TX,229,2007,0.163
-Utah ,UT,394,2007,0.098
-Vermont ,VT,475,2007,0.101
-Virginia ,VA,478,2007,0.099
-Washington ,WA,514,2007,0.114
-West Virginia ,WV,236,2007,0.171
-Wisconsin ,WI,334,2007,0.108
-Wyoming ,WY,290,2007,0.095
-Alabama ,AL,300,2008,0.159
-Alaska ,AK,282,2008,0.092
-Arizona ,AZ,352,2008,0.147
-Arkansas ,AR,262,2008,0.173
-California ,CA,464,2008,0.133
-Colorado ,CO,367,2008,0.112
-Connecticut ,CT,453,2008,0.091
-Delaware ,DE,494,2008,0.103
-Florida ,FL,368,2008,0.133
-Georgia ,GA,325,2008,0.147
-Hawaii ,HI,517,2008,0.093
-Idaho ,ID,348,2008,0.125
-Illinois ,IL,370,2008,0.122
-Indiana ,IN,258,2008,0.129
-Iowa ,IA,254,2008,0.114
-Kansas ,KS,248,2008,0.113
-Kentucky ,KY,296,2008,0.173
-Louisiana ,LA,253,2008,0.176
-Maine ,ME,504,2008,0.126
-Maryland ,MD,493,2008,0.082
-Massachusetts ,MA,669,2008,0.101
-Michigan ,MI,281,2008,0.144
-Minnesota ,MN,352,2008,0.096
-Mississippi ,MS,268,2008,0.208
-Missouri ,MO,303,2008,0.135
-Montana ,MT,394,2008,0.141
-Nebraska ,NE,258,2008,0.108
-Nevada ,NV,300,2008,0.112
-New Hampshire ,NH,470,2008,0.078
-New Jersey ,NJ,542,2008,0.087
-New Mexico ,NM,334,2008,0.17
-New York ,NY,630,2008,0.137
-North Carolina ,NC,346,2008,0.146
-North Dakota ,ND,268,2008,0.115
-Ohio ,OH,263,2008,0.133
-Oklahoma ,OK,211,2008,0.157
-Oregon ,OR,448,2008,0.135
-Pennsylvania ,PA,409,2008,0.121
-Rhode Island ,RI,530,2008,0.121
-South Carolina ,SC,325,2008,0.157
-South Dakota ,SD,304,2008,0.127
-Tennessee ,TN,315,2008,0.155
-Texas ,TX,233,2008,0.158
-Utah ,UT,378,2008,0.097
-Vermont ,VT,470,2008,0.104
-Virginia ,VA,449,2008,0.102
-Washington ,WA,491,2008,0.113
-West Virginia ,WV,229,2008,0.174
-Wisconsin ,WI,329,2008,0.105
-Wyoming ,WY,291,2008,0.095
+State_Name,State_Abbrv,Price_Index,Cal_Year,Poverty_Rate,Pop_3039
+Alabama ,AL,140,1990,,0.15801
+Alaska ,AK,115,1990,,0.210987
+Arizona ,AZ,132,1990,,0.162169
+Arkansas ,AR,129,1990,,0.149206
+California ,CA,228,1990,,0.177685
+Colorado ,CO,130,1990,,0.189199
+Connecticut ,CT,241,1990,,0.171292
+Delaware ,DE,226,1990,,0.168079
+Florida ,FL,152,1990,,0.154765
+Georgia ,GA,162,1990,,0.172268
+Hawaii ,HI,251,1990,,0.17762
+Idaho ,ID,128,1990,,0.158795
+Illinois ,IL,170,1990,,0.168178
+Indiana ,IN,140,1990,,0.163723
+Iowa ,IA,120,1990,,0.15631
+Kansas ,KS,120,1990,,0.164637
+Kentucky ,KY,142,1990,,0.162976
+Louisiana ,LA,104,1990,,0.163865
+Maine ,ME,236,1990,,0.170298
+Maryland ,MD,201,1990,,0.179072
+Massachusetts ,MA,291,1990,,0.171009
+Michigan ,MI,147,1990,,0.167915
+Minnesota ,MN,139,1990,,0.173616
+Mississippi ,MS,122,1990,,0.15244
+Missouri ,MO,145,1990,,0.161015
+Montana ,MT,124,1990,,0.16838
+Nebraska ,NE,127,1990,,0.162142
+Nevada ,NV,146,1990,,0.174063
+New Hampshire ,NH,216,1990,,0.183978
+New Jersey ,NJ,230,1990,,0.17029
+New Mexico ,NM,137,1990,,0.166219
+New York ,NY,278,1990,,0.166896
+North Carolina ,NC,164,1990,,0.165469
+North Dakota ,ND,114,1990,,0.164051
+Ohio ,OH,145,1990,,0.164852
+Oklahoma ,OK,102,1990,,0.158778
+Oregon ,OR,135,1990,,0.171193
+Pennsylvania ,PA,198,1990,,0.161379
+Rhode Island ,RI,254,1990,,0.165842
+South Carolina ,SC,150,1990,,0.163746
+South Dakota ,SD,123,1990,,0.156237
+Tennessee ,TN,147,1990,,0.16334
+Texas ,TX,117,1990,,0.171695
+Utah ,UT,119,1990,,0.152351
+Vermont ,VT,214,1990,,0.176093
+Virginia ,VA,184,1990,,0.175159
+Washington ,WA,178,1990,,0.177526
+West Virginia ,WV,111,1990,,0.157125
+Wisconsin ,WI,137,1990,,0.165252
+Wyoming ,WY,91,1990,,0.179894
+Alabama ,AL,147,1991,,0.158692
+Alaska ,AK,127,1991,,0.212905
+Arizona ,AZ,139,1991,,0.164128
+Arkansas ,AR,134,1991,,0.150221
+California ,CA,228,1991,,0.179146
+Colorado ,CO,136,1991,,0.191277
+Connecticut ,CT,237,1991,,0.173264
+Delaware ,DE,233,1991,,0.17003
+Florida ,FL,157,1991,,0.158282
+Georgia ,GA,165,1991,,0.174839
+Hawaii ,HI,263,1991,,0.178012
+Idaho ,ID,138,1991,,0.160731
+Illinois ,IL,177,1991,,0.169931
+Indiana ,IN,147,1991,,0.164763
+Iowa ,IA,126,1991,,0.156565
+Kansas ,KS,123,1991,,0.165431
+Kentucky ,KY,148,1991,,0.163882
+Louisiana ,LA,108,1991,,0.164335
+Maine ,ME,232,1991,,0.170909
+Maryland ,MD,209,1991,,0.181219
+Massachusetts ,MA,285,1991,,0.171719
+Michigan ,MI,154,1991,,0.16875
+Minnesota ,MN,145,1991,,0.176047
+Mississippi ,MS,126,1991,,0.152707
+Missouri ,MO,149,1991,,0.162929
+Montana ,MT,132,1991,,0.167586
+Nebraska ,NE,132,1991,,0.163191
+Nevada ,NV,154,1991,,0.179742
+New Hampshire ,NH,206,1991,,0.18501
+New Jersey ,NJ,229,1991,,0.173009
+New Mexico ,NM,142,1991,,0.167578
+New York ,NY,281,1991,,0.1682
+North Carolina ,NC,168,1991,,0.16713
+North Dakota ,ND,118,1991,,0.162804
+Ohio ,OH,152,1991,,0.165675
+Oklahoma ,OK,108,1991,,0.159897
+Oregon ,OR,146,1991,,0.171349
+Pennsylvania ,PA,205,1991,,0.162241
+Rhode Island ,RI,249,1991,,0.16709
+South Carolina ,SC,157,1991,,0.164305
+South Dakota ,SD,131,1991,,0.157163
+Tennessee ,TN,152,1991,,0.164336
+Texas ,TX,121,1991,,0.173879
+Utah ,UT,127,1991,,0.153304
+Vermont ,VT,211,1991,,0.174859
+Virginia ,VA,188,1991,,0.176635
+Washington ,WA,188,1991,,0.17971
+West Virginia ,WV,118,1991,,0.155914
+Wisconsin ,WI,145,1991,,0.167114
+Wyoming ,WY,97,1991,,0.179439
+Alabama ,AL,152,1992,,0.158869
+Alaska ,AK,132,1992,,0.214451
+Arizona ,AZ,141,1992,,0.165535
+Arkansas ,AR,138,1992,,0.150438
+California ,CA,222,1992,,0.180711
+Colorado ,CO,147,1992,,0.191701
+Connecticut ,CT,234,1992,,0.174187
+Delaware ,DE,235,1992,,0.17124
+Florida ,FL,161,1992,,0.16056
+Georgia ,GA,170,1992,,0.176391
+Hawaii ,HI,265,1992,,0.177725
+Idaho ,ID,148,1992,,0.16021
+Illinois ,IL,183,1992,,0.171158
+Indiana ,IN,153,1992,,0.165113
+Iowa ,IA,132,1992,,0.156472
+Kansas ,KS,126,1992,,0.165938
+Kentucky ,KY,154,1992,,0.164007
+Louisiana ,LA,113,1992,,0.16424
+Maine ,ME,231,1992,,0.170448
+Maryland ,MD,211,1992,,0.182607
+Massachusetts ,MA,283,1992,,0.172783
+Michigan ,MI,158,1992,,0.168991
+Minnesota ,MN,149,1992,,0.176983
+Mississippi ,MS,130,1992,,0.152119
+Missouri ,MO,152,1992,,0.164102
+Montana ,MT,145,1992,,0.164993
+Nebraska ,NE,138,1992,,0.163687
+Nevada ,NV,159,1992,,0.182269
+New Hampshire ,NH,200,1992,,0.185246
+New Jersey ,NJ,232,1992,,0.174874
+New Mexico ,NM,149,1992,,0.167867
+New York ,NY,287,1992,,0.169075
+North Carolina ,NC,173,1992,,0.167517
+North Dakota ,ND,124,1992,,0.161312
+Ohio ,OH,158,1992,,0.165636
+Oklahoma ,OK,110,1992,,0.160371
+Oregon ,OR,157,1992,,0.169319
+Pennsylvania ,PA,209,1992,,0.161769
+Rhode Island ,RI,246,1992,,0.167328
+South Carolina ,SC,161,1992,,0.164083
+South Dakota ,SD,140,1992,,0.156393
+Tennessee ,TN,156,1992,,0.16439
+Texas ,TX,125,1992,,0.175177
+Utah ,UT,137,1992,,0.153573
+Vermont ,VT,214,1992,,0.172651
+Virginia ,VA,191,1992,,0.177768
+Washington ,WA,195,1992,,0.18026
+West Virginia ,WV,123,1992,,0.153763
+Wisconsin ,WI,153,1992,,0.16776
+Wyoming ,WY,103,1992,,0.177229
+Alabama ,AL,159,1993,,0.158647
+Alaska ,AK,135,1993,,0.212958
+Arizona ,AZ,146,1993,,0.166075
+Arkansas ,AR,146,1993,,0.151476
+California ,CA,214,1993,,0.180727
+Colorado ,CO,162,1993,,0.191699
+Connecticut ,CT,232,1993,,0.17442
+Delaware ,DE,235,1993,,0.171966
+Florida ,FL,166,1993,,0.161578
+Georgia ,GA,175,1993,,0.177456
+Hawaii ,HI,266,1993,,0.176063
+Idaho ,ID,161,1993,,0.158984
+Illinois ,IL,190,1993,,0.172021
+Indiana ,IN,159,1993,,0.165052
+Iowa ,IA,139,1993,,0.15553
+Kansas ,KS,131,1993,,0.165487
+Kentucky ,KY,159,1993,,0.164391
+Louisiana ,LA,120,1993,,0.163785
+Maine ,ME,231,1993,,0.169587
+Maryland ,MD,212,1993,,0.183314
+Massachusetts ,MA,285,1993,,0.173203
+Michigan ,MI,163,1993,,0.168518
+Minnesota ,MN,156,1993,,0.177873
+Mississippi ,MS,135,1993,,0.152131
+Missouri ,MO,156,1993,,0.164799
+Montana ,MT,159,1993,,0.162274
+Nebraska ,NE,146,1993,,0.163053
+Nevada ,NV,163,1993,,0.183123
+New Hampshire ,NH,202,1993,,0.185199
+New Jersey ,NJ,235,1993,,0.176255
+New Mexico ,NM,161,1993,,0.16679
+New York ,NY,288,1993,,0.17
+North Carolina ,NC,178,1993,,0.167767
+North Dakota ,ND,131,1993,,0.159188
+Ohio ,OH,165,1993,,0.165291
+Oklahoma ,OK,116,1993,,0.160003
+Oregon ,OR,170,1993,,0.167577
+Pennsylvania ,PA,213,1993,,0.160912
+Rhode Island ,RI,246,1993,,0.166706
+South Carolina ,SC,165,1993,,0.163516
+South Dakota ,SD,150,1993,,0.15614
+Tennessee ,TN,163,1993,,0.164506
+Texas ,TX,130,1993,,0.175896
+Utah ,UT,155,1993,,0.152578
+Vermont ,VT,217,1993,,0.16984
+Virginia ,VA,194,1993,,0.178594
+Washington ,WA,203,1993,,0.180407
+West Virginia ,WV,128,1993,,0.151618
+Wisconsin ,WI,160,1993,,0.168093
+Wyoming ,WY,112,1993,,0.173634
+Alabama ,AL,162,1994,,0.157505
+Alaska ,AK,140,1994,,0.209878
+Arizona ,AZ,154,1994,,0.16734
+Arkansas ,AR,153,1994,,0.151136
+California ,CA,200,1994,,0.179862
+Colorado ,CO,180,1994,,0.190398
+Connecticut ,CT,219,1994,,0.17448
+Delaware ,DE,228,1994,,0.171811
+Florida ,FL,164,1994,,0.162145
+Georgia ,GA,178,1994,,0.178674
+Hawaii ,HI,259,1994,,0.174339
+Idaho ,ID,171,1994,,0.156294
+Illinois ,IL,197,1994,,0.171841
+Indiana ,IN,165,1994,,0.163906
+Iowa ,IA,148,1994,,0.153906
+Kansas ,KS,140,1994,,0.163974
+Kentucky ,KY,170,1994,,0.163863
+Louisiana ,LA,125,1994,,0.162181
+Maine ,ME,220,1994,,0.167635
+Maryland ,MD,207,1994,,0.184126
+Massachusetts ,MA,280,1994,,0.173724
+Michigan ,MI,173,1994,,0.167626
+Minnesota ,MN,161,1994,,0.177579
+Mississippi ,MS,143,1994,,0.151268
+Missouri ,MO,163,1994,,0.164754
+Montana ,MT,173,1994,,0.158692
+Nebraska ,NE,156,1994,,0.161659
+Nevada ,NV,163,1994,,0.18417
+New Hampshire ,NH,195,1994,,0.183996
+New Jersey ,NJ,229,1994,,0.176951
+New Mexico ,NM,177,1994,,0.166002
+New York ,NY,275,1994,,0.1703
+North Carolina ,NC,187,1994,,0.167394
+North Dakota ,ND,138,1994,,0.156218
+Ohio ,OH,172,1994,,0.164196
+Oklahoma ,OK,119,1994,,0.158483
+Oregon ,OR,188,1994,,0.164126
+Pennsylvania ,PA,208,1994,,0.159735
+Rhode Island ,RI,231,1994,,0.165891
+South Carolina ,SC,168,1994,,0.162332
+South Dakota ,SD,161,1994,,0.155051
+Tennessee ,TN,170,1994,,0.164252
+Texas ,TX,130,1994,,0.175607
+Utah ,UT,179,1994,,0.150921
+Vermont ,VT,215,1994,,0.166374
+Virginia ,VA,193,1994,,0.178863
+Washington ,WA,210,1994,,0.178976
+West Virginia ,WV,134,1994,,0.149416
+Wisconsin ,WI,174,1994,,0.167304
+Wyoming ,WY,122,1994,,0.16909
+Alabama ,AL,171,1995,,0.155262
+Alaska ,AK,147,1995,,0.205135
+Arizona ,AZ,163,1995,,0.165907
+Arkansas ,AR,160,1995,,0.149752
+California ,CA,203,1995,,0.177855
+Colorado ,CO,194,1995,,0.187544
+Connecticut ,CT,226,1995,,0.173726
+Delaware ,DE,234,1995,,0.171822
+Florida ,FL,172,1995,,0.161831
+Georgia ,GA,187,1995,,0.178517
+Hawaii ,HI,261,1995,,0.171596
+Idaho ,ID,181,1995,,0.153567
+Illinois ,IL,206,1995,,0.170358
+Indiana ,IN,175,1995,,0.161984
+Iowa ,IA,157,1995,,0.151658
+Kansas ,KS,148,1995,,0.161565
+Kentucky ,KY,178,1995,,0.162679
+Louisiana ,LA,133,1995,,0.159987
+Maine ,ME,231,1995,,0.165487
+Maryland ,MD,214,1995,,0.183456
+Massachusetts ,MA,293,1995,,0.173644
+Michigan ,MI,186,1995,,0.165551
+Minnesota ,MN,171,1995,,0.176144
+Mississippi ,MS,150,1995,,0.149737
+Missouri ,MO,171,1995,,0.163296
+Montana ,MT,184,1995,,0.155021
+Nebraska ,NE,164,1995,,0.159485
+Nevada ,NV,172,1995,,0.183885
+New Hampshire ,NH,205,1995,,0.182163
+New Jersey ,NJ,236,1995,,0.176712
+New Mexico ,NM,188,1995,,0.163886
+New York ,NY,282,1995,,0.169554
+North Carolina ,NC,196,1995,,0.16649
+North Dakota ,ND,144,1995,,0.15257
+Ohio ,OH,181,1995,,0.162367
+Oklahoma ,OK,125,1995,,0.155736
+Oregon ,OR,205,1995,,0.160419
+Pennsylvania ,PA,216,1995,,0.157859
+Rhode Island ,RI,242,1995,,0.163948
+South Carolina ,SC,176,1995,,0.160587
+South Dakota ,SD,168,1995,,0.152868
+Tennessee ,TN,181,1995,,0.163356
+Texas ,TX,135,1995,,0.174341
+Utah ,UT,199,1995,,0.148678
+Vermont ,VT,219,1995,,0.162752
+Virginia ,VA,199,1995,,0.177863
+Washington ,WA,219,1995,,0.176576
+West Virginia ,WV,140,1995,,0.146173
+Wisconsin ,WI,185,1995,,0.165755
+Wyoming ,WY,131,1995,,0.163554
+Alabama ,AL,177,1996,,0.153023
+Alaska ,AK,154,1996,,0.198336
+Arizona ,AZ,169,1996,,0.16326
+Arkansas ,AR,164,1996,,0.147703
+California ,CA,201,1996,,0.174896
+Colorado ,CO,203,1996,,0.182805
+Connecticut ,CT,224,1996,,0.172329
+Delaware ,DE,236,1996,,0.169758
+Florida ,FL,173,1996,,0.160093
+Georgia ,GA,195,1996,,0.176999
+Hawaii ,HI,238,1996,,0.168304
+Idaho ,ID,184,1996,,0.149906
+Illinois ,IL,212,1996,,0.167891
+Indiana ,IN,182,1996,,0.159369
+Iowa ,IA,163,1996,,0.148458
+Kansas ,KS,154,1996,,0.157854
+Kentucky ,KY,186,1996,,0.160503
+Louisiana ,LA,139,1996,,0.157254
+Maine ,ME,236,1996,,0.162731
+Maryland ,MD,214,1996,,0.182051
+Massachusetts ,MA,302,1996,,0.172418
+Michigan ,MI,201,1996,,0.162925
+Minnesota ,MN,178,1996,,0.173352
+Mississippi ,MS,156,1996,,0.147485
+Missouri ,MO,178,1996,,0.160504
+Montana ,MT,192,1996,,0.150349
+Nebraska ,NE,173,1996,,0.156377
+Nevada ,NV,175,1996,,0.181175
+New Hampshire ,NH,209,1996,,0.179012
+New Jersey ,NJ,236,1996,,0.175576
+New Mexico ,NM,189,1996,,0.160791
+New York ,NY,283,1996,,0.168293
+North Carolina ,NC,204,1996,,0.164686
+North Dakota ,ND,149,1996,,0.148759
+Ohio ,OH,189,1996,,0.159683
+Oklahoma ,OK,128,1996,,0.152632
+Oregon ,OR,219,1996,,0.156995
+Pennsylvania ,PA,217,1996,,0.155423
+Rhode Island ,RI,238,1996,,0.162057
+South Carolina ,SC,184,1996,,0.157793
+South Dakota ,SD,172,1996,,0.149915
+Tennessee ,TN,190,1996,,0.161666
+Texas ,TX,137,1996,,0.171144
+Utah ,UT,213,1996,,0.146113
+Vermont ,VT,218,1996,,0.158401
+Virginia ,VA,201,1996,,0.175843
+Washington ,WA,224,1996,,0.172784
+West Virginia ,WV,143,1996,,0.143188
+Wisconsin ,WI,193,1996,,0.163577
+Wyoming ,WY,135,1996,,0.156666
+Alabama ,AL,185,1997,,0.149597
+Alaska ,AK,158,1997,,0.188713
+Arizona ,AZ,177,1997,,0.16045
+Arkansas ,AR,171,1997,,0.145222
+California ,CA,212,1997,,0.172159
+Colorado ,CO,215,1997,,0.176534
+Connecticut ,CT,231,1997,,0.169649
+Delaware ,DE,241,1997,,0.166031
+Florida ,FL,181,1997,,0.157128
+Georgia ,GA,207,1997,,0.174311
+Hawaii ,HI,229,1997,,0.164538
+Idaho ,ID,191,1997,,0.145982
+Illinois ,IL,219,1997,,0.164301
+Indiana ,IN,191,1997,,0.155298
+Iowa ,IA,170,1997,,0.144791
+Kansas ,KS,161,1997,,0.152936
+Kentucky ,KY,194,1997,,0.156604
+Louisiana ,LA,146,1997,,0.153764
+Maine ,ME,244,1997,,0.158903
+Maryland ,MD,219,1997,,0.178106
+Massachusetts ,MA,319,1997,,0.170233
+Michigan ,MI,215,1997,,0.159144
+Minnesota ,MN,188,1997,,0.168727
+Mississippi ,MS,162,1997,,0.144455
+Missouri ,MO,186,1997,,0.156566
+Montana ,MT,200,1997,,0.144799
+Nebraska ,NE,183,1997,,0.151913
+Nevada ,NV,180,1997,,0.177644
+New Hampshire ,NH,219,1997,,0.173906
+New Jersey ,NJ,244,1997,,0.17351
+New Mexico ,NM,194,1997,,0.155201
+New York ,NY,292,1997,,0.166345
+North Carolina ,NC,216,1997,,0.162112
+North Dakota ,ND,154,1997,,0.143969
+Ohio ,OH,198,1997,,0.155615
+Oklahoma ,OK,134,1997,,0.148361
+Oregon ,OR,232,1997,,0.152547
+Pennsylvania ,PA,223,1997,,0.151814
+Rhode Island ,RI,246,1997,,0.159112
+South Carolina ,SC,193,1997,,0.154317
+South Dakota ,SD,181,1997,,0.145352
+Tennessee ,TN,199,1997,,0.158781
+Texas ,TX,141,1997,,0.167111
+Utah ,UT,226,1997,,0.14268
+Vermont ,VT,223,1997,,0.154087
+Virginia ,VA,207,1997,,0.172324
+Washington ,WA,237,1997,,0.168149
+West Virginia ,WV,151,1997,,0.139604
+Wisconsin ,WI,202,1997,,0.16003
+Wyoming ,WY,141,1997,,0.149002
+Alabama ,AL,194,1998,,0.14743
+Alaska ,AK,162,1998,,0.178131
+Arizona ,AZ,186,1998,,0.1555
+Arkansas ,AR,177,1998,,0.142651
+California ,CA,231,1998,,0.169048
+Colorado ,CO,228,1998,,0.170335
+Connecticut ,CT,244,1998,,0.165477
+Delaware ,DE,248,1998,,0.161595
+Florida ,FL,190,1998,,0.153366
+Georgia ,GA,220,1998,,0.170979
+Hawaii ,HI,230,1998,,0.160689
+Idaho ,ID,197,1998,,0.142174
+Illinois ,IL,226,1998,,0.160605
+Indiana ,IN,199,1998,,0.151726
+Iowa ,IA,179,1998,,0.141568
+Kansas ,KS,169,1998,,0.148502
+Kentucky ,KY,203,1998,,0.15394
+Louisiana ,LA,153,1998,,0.150206
+Maine ,ME,256,1998,,0.154393
+Maryland ,MD,225,1998,,0.173048
+Massachusetts ,MA,343,1998,,0.167284
+Michigan ,MI,228,1998,,0.155395
+Minnesota ,MN,199,1998,,0.163391
+Mississippi ,MS,170,1998,,0.142592
+Missouri ,MO,193,1998,,0.152109
+Montana ,MT,204,1998,,0.139096
+Nebraska ,NE,191,1998,,0.147314
+Nevada ,NV,185,1998,,0.172192
+New Hampshire ,NH,235,1998,,0.16787
+New Jersey ,NJ,254,1998,,0.170248
+New Mexico ,NM,200,1998,,0.150407
+New York ,NY,307,1998,,0.16414
+North Carolina ,NC,225,1998,,0.160108
+North Dakota ,ND,161,1998,,0.139155
+Ohio ,OH,207,1998,,0.15173
+Oklahoma ,OK,140,1998,,0.144377
+Oregon ,OR,242,1998,,0.148531
+Pennsylvania ,PA,231,1998,,0.148448
+Rhode Island ,RI,254,1998,,0.156701
+South Carolina ,SC,203,1998,,0.151709
+South Dakota ,SD,187,1998,,0.141139
+Tennessee ,TN,209,1998,,0.155916
+Texas ,TX,148,1998,,0.162679
+Utah ,UT,236,1998,,0.139248
+Vermont ,VT,230,1998,,0.150541
+Virginia ,VA,213,1998,,0.16812
+Washington ,WA,252,1998,,0.163339
+West Virginia ,WV,157,1998,,0.136802
+Wisconsin ,WI,208,1998,,0.15621
+Wyoming ,WY,144,1998,,0.142402
+Alabama ,AL,197,1999,,0.145419
+Alaska ,AK,166,1999,,0.169737
+Arizona ,AZ,195,1999,,0.151357
+Arkansas ,AR,180,1999,,0.141355
+California ,CA,249,1999,,0.165524
+Colorado ,CO,251,1999,,0.16559
+Connecticut ,CT,258,1999,,0.161699
+Delaware ,DE,260,1999,,0.158215
+Florida ,FL,197,1999,,0.149667
+Georgia ,GA,233,1999,,0.167713
+Hawaii ,HI,224,1999,,0.155289
+Idaho ,ID,197,1999,,0.139497
+Illinois ,IL,236,1999,,0.156825
+Indiana ,IN,203,1999,,0.14928
+Iowa ,IA,185,1999,,0.139231
+Kansas ,KS,177,1999,,0.144938
+Kentucky ,KY,211,1999,,0.151842
+Louisiana ,LA,158,1999,,0.147091
+Maine ,ME,272,1999,,0.150927
+Maryland ,MD,232,1999,,0.168172
+Massachusetts ,MA,386,1999,,0.164875
+Michigan ,MI,244,1999,,0.152312
+Minnesota ,MN,217,1999,,0.158806
+Mississippi ,MS,174,1999,,0.141341
+Missouri ,MO,203,1999,,0.14873
+Montana ,MT,209,1999,,0.13444
+Nebraska ,NE,197,1999,,0.143328
+Nevada ,NV,185,1999,,0.166709
+New Hampshire ,NH,258,1999,,0.163526
+New Jersey ,NJ,269,1999,,0.166256
+New Mexico ,NM,200,1999,,0.145701
+New York ,NY,331,1999,,0.161313
+North Carolina ,NC,232,1999,,0.158624
+North Dakota ,ND,161,1999,,0.135104
+Ohio ,OH,213,1999,,0.148713
+Oklahoma ,OK,144,1999,,0.141654
+Oregon ,OR,245,1999,,0.145703
+Pennsylvania ,PA,235,1999,,0.146249
+Rhode Island ,RI,268,1999,,0.154264
+South Carolina ,SC,213,1999,,0.15026
+South Dakota ,SD,194,1999,,0.137808
+Tennessee ,TN,213,1999,,0.153558
+Texas ,TX,157,1999,,0.158812
+Utah ,UT,234,1999,,0.13605
+Vermont ,VT,242,1999,,0.148623
+Virginia ,VA,223,1999,,0.164885
+Washington ,WA,264,1999,,0.159157
+West Virginia ,WV,157,1999,,0.135612
+Wisconsin ,WI,219,1999,,0.15288
+Wyoming ,WY,148,1999,,0.136799
+Alabama ,AL,204,2000,0.146,0.143767
+Alaska ,AK,170,2000,0.085,0.16236
+Arizona ,AZ,207,2000,0.125,0.147961
+Arkansas ,AR,184,2000,0.15,0.140312
+California ,CA,285,2000,0.127,0.162085
+Colorado ,CO,280,2000,0.089,0.161857
+Connecticut ,CT,276,2000,0.073,0.158314
+Delaware ,DE,279,2000,0.087,0.155437
+Florida ,FL,214,2000,0.117,0.146618
+Georgia ,GA,250,2000,0.123,0.16514
+Hawaii ,HI,238,2000,0.099,0.150771
+Idaho ,ID,201,2000,0.112,0.138014
+Illinois ,IL,252,2000,0.1,0.153864
+Indiana ,IN,211,2000,0.088,0.147511
+Iowa ,IA,192,2000,0.083,0.13745
+Kansas ,KS,186,2000,0.089,0.142057
+Kentucky ,KY,221,2000,0.139,0.150087
+Louisiana ,LA,164,2000,0.173,0.144456
+Maine ,ME,295,2000,0.099,0.148218
+Maryland ,MD,248,2000,0.079,0.163712
+Massachusetts ,MA,440,2000,0.084,0.162218
+Michigan ,MI,264,2000,0.097,0.149851
+Minnesota ,MN,239,2000,0.069,0.155117
+Mississippi ,MS,186,2000,0.176,0.140655
+Missouri ,MO,215,2000,0.106,0.146044
+Montana ,MT,218,2000,0.133,0.131021
+Nebraska ,NE,205,2000,0.089,0.140459
+Nevada ,NV,194,2000,0.094,0.16153
+New Hampshire ,NH,296,2000,0.056,0.159854
+New Jersey ,NJ,295,2000,0.078,0.16261
+New Mexico ,NM,203,2000,0.173,0.142032
+New York ,NY,361,2000,0.132,0.158616
+North Carolina ,NC,243,2000,0.117,0.156891
+North Dakota ,ND,167,2000,0.104,0.131866
+Ohio ,OH,223,2000,0.098,0.146341
+Oklahoma ,OK,150,2000,0.138,0.139077
+Oregon ,OR,256,2000,0.106,0.143497
+Pennsylvania ,PA,244,2000,0.095,0.144312
+Rhode Island ,RI,296,2000,0.102,0.152966
+South Carolina ,SC,220,2000,0.128,0.148543
+South Dakota ,SD,203,2000,0.114,0.135298
+Tennessee ,TN,221,2000,0.126,0.151524
+Texas ,TX,166,2000,0.146,0.155947
+Utah ,UT,242,2000,0.088,0.133616
+Vermont ,VT,263,2000,0.088,0.146776
+Virginia ,VA,243,2000,0.089,0.161905
+Washington ,WA,279,2000,0.096,0.155778
+West Virginia ,WV,161,2000,0.155,0.135048
+Wisconsin ,WI,231,2000,0.081,0.149973
+Wyoming ,WY,157,2000,0.104,0.133609
+Alabama ,AL,215,2001,0.157,0.141948
+Alaska ,AK,180,2001,0.087,0.15715
+Arizona ,AZ,220,2001,0.132,0.146472
+Arkansas ,AR,194,2001,0.159,0.138737
+California ,CA,314,2001,0.129,0.160346
+Colorado ,CO,302,2001,0.087,0.159762
+Connecticut ,CT,302,2001,0.071,0.154637
+Delaware ,DE,300,2001,0.084,0.152509
+Florida ,FL,236,2001,0.126,0.144267
+Georgia ,GA,267,2001,0.127,0.163855
+Hawaii ,HI,258,2001,0.104,0.148973
+Idaho ,ID,213,2001,0.115,0.135944
+Illinois ,IL,267,2001,0.101,0.151613
+Indiana ,IN,221,2001,0.09,0.145175
+Iowa ,IA,202,2001,0.082,0.134767
+Kansas ,KS,196,2001,0.095,0.139029
+Kentucky ,KY,231,2001,0.147,0.148186
+Louisiana ,LA,173,2001,0.183,0.141546
+Maine ,ME,324,2001,0.102,0.144991
+Maryland ,MD,269,2001,0.077,0.159968
+Massachusetts ,MA,492,2001,0.082,0.159396
+Michigan ,MI,277,2001,0.098,0.147698
+Minnesota ,MN,263,2001,0.072,0.15157
+Mississippi ,MS,196,2001,0.19,0.138717
+Missouri ,MO,228,2001,0.11,0.143251
+Montana ,MT,229,2001,0.14,0.12686
+Nebraska ,NE,213,2001,0.093,0.137202
+Nevada ,NV,207,2001,0.093,0.159989
+New Hampshire ,NH,330,2001,0.06,0.15596
+New Jersey ,NJ,326,2001,0.078,0.160012
+New Mexico ,NM,212,2001,0.18,0.138023
+New York ,NY,395,2001,0.137,0.156226
+North Carolina ,NC,255,2001,0.119,0.155493
+North Dakota ,ND,175,2001,0.114,0.127514
+Ohio ,OH,234,2001,0.103,0.143889
+Oklahoma ,OK,159,2001,0.144,0.136347
+Oregon ,OR,270,2001,0.111,0.141885
+Pennsylvania ,PA,260,2001,0.1,0.141695
+Rhode Island ,RI,332,2001,0.102,0.150404
+South Carolina ,SC,233,2001,0.138,0.146379
+South Dakota ,SD,214,2001,0.117,0.13184
+Tennessee ,TN,232,2001,0.132,0.149726
+Texas ,TX,176,2001,0.15,0.154126
+Utah ,UT,252,2001,0.094,0.132222
+Vermont ,VT,284,2001,0.089,0.142859
+Virginia ,VA,264,2001,0.088,0.15937
+Washington ,WA,294,2001,0.099,0.153416
+West Virginia ,WV,170,2001,0.167,0.133645
+Wisconsin ,WI,243,2001,0.081,0.146593
+Wyoming ,WY,165,2001,0.105,0.129574
+Alabama ,AL,223,2002,0.154,0.139469
+Alaska ,AK,189,2002,0.093,0.151581
+Arizona ,AZ,233,2002,0.136,0.144376
+Arkansas ,AR,201,2002,0.163,0.136489
+California ,CA,356,2002,0.133,0.157748
+Colorado ,CO,315,2002,0.095,0.156897
+Connecticut ,CT,333,2002,0.078,0.150373
+Delaware ,DE,326,2002,0.093,0.148779
+Florida ,FL,261,2002,0.128,0.141493
+Georgia ,GA,279,2002,0.13,0.161604
+Hawaii ,HI,279,2002,0.11,0.146112
+Idaho ,ID,220,2002,0.117,0.133241
+Illinois ,IL,283,2002,0.113,0.149209
+Indiana ,IN,227,2002,0.096,0.142652
+Iowa ,IA,210,2002,0.091,0.1316
+Kansas ,KS,204,2002,0.1,0.135832
+Kentucky ,KY,239,2002,0.148,0.145834
+Louisiana ,LA,181,2002,0.181,0.138203
+Maine ,ME,357,2002,0.11,0.141256
+Maryland ,MD,300,2002,0.083,0.155934
+Massachusetts ,MA,553,2002,0.09,0.155778
+Michigan ,MI,289,2002,0.109,0.144919
+Minnesota ,MN,286,2002,0.075,0.147241
+Mississippi ,MS,201,2002,0.189,0.13659
+Missouri ,MO,240,2002,0.113,0.139966
+Montana ,MT,243,2002,0.14,0.12284
+Nebraska ,NE,220,2002,0.1,0.134043
+Nevada ,NV,220,2002,0.101,0.157641
+New Hampshire ,NH,370,2002,0.063,0.151511
+New Jersey ,NJ,367,2002,0.083,0.156632
+New Mexico ,NM,221,2002,0.177,0.134437
+New York ,NY,440,2002,0.139,0.153081
+North Carolina ,NC,263,2002,0.129,0.153307
+North Dakota ,ND,185,2002,0.111,0.123279
+Ohio ,OH,242,2002,0.102,0.141042
+Oklahoma ,OK,165,2002,0.145,0.133423
+Oregon ,OR,282,2002,0.113,0.139986
+Pennsylvania ,PA,279,2002,0.1,0.138696
+Rhode Island ,RI,387,2002,0.11,0.14734
+South Carolina ,SC,242,2002,0.14,0.143939
+South Dakota ,SD,224,2002,0.124,0.127891
+Tennessee ,TN,239,2002,0.136,0.147459
+Texas ,TX,183,2002,0.154,0.151969
+Utah ,UT,255,2002,0.097,0.130816
+Vermont ,VT,304,2002,0.093,0.138964
+Virginia ,VA,288,2002,0.096,0.155916
+Washington ,WA,308,2002,0.103,0.150208
+West Virginia ,WV,177,2002,0.161,0.132347
+Wisconsin ,WI,254,2002,0.085,0.142795
+Wyoming ,WY,176,2002,0.106,0.126632
+Alabama ,AL,230,2003,0.153,0.136825
+Alaska ,AK,205,2003,0.098,0.146516
+Arizona ,AZ,250,2003,0.139,0.142072
+Arkansas ,AR,209,2003,0.16,0.133654
+California ,CA,407,2003,0.137,0.154703
+Colorado ,CO,323,2003,0.1,0.153065
+Connecticut ,CT,363,2003,0.08,0.145806
+Delaware ,DE,359,2003,0.09,0.144181
+Florida ,FL,291,2003,0.13,0.138084
+Georgia ,GA,288,2003,0.134,0.158598
+Hawaii ,HI,321,2003,0.108,0.14246
+Idaho ,ID,229,2003,0.117,0.130588
+Illinois ,IL,302,2003,0.114,0.14628
+Indiana ,IN,233,2003,0.1,0.139703
+Iowa ,IA,218,2003,0.091,0.128059
+Kansas ,KS,212,2003,0.104,0.132178
+Kentucky ,KY,249,2003,0.15,0.142525
+Louisiana ,LA,190,2003,0.181,0.134355
+Maine ,ME,394,2003,0.107,0.136751
+Maryland ,MD,339,2003,0.088,0.151148
+Massachusetts ,MA,608,2003,0.095,0.15096
+Michigan ,MI,300,2003,0.11,0.141393
+Minnesota ,MN,311,2003,0.08,0.142222
+Mississippi ,MS,207,2003,0.183,0.134061
+Missouri ,MO,253,2003,0.116,0.136245
+Montana ,MT,264,2003,0.142,0.11901
+Nebraska ,NE,228,2003,0.099,0.130506
+Nevada ,NV,249,2003,0.11,0.15441
+New Hampshire ,NH,407,2003,0.064,0.146666
+New Jersey ,NJ,412,2003,0.089,0.15258
+New Mexico ,NM,234,2003,0.177,0.130854
+New York ,NY,491,2003,0.143,0.149201
+North Carolina ,NC,271,2003,0.134,0.150453
+North Dakota ,ND,195,2003,0.105,0.119145
+Ohio ,OH,251,2003,0.107,0.137623
+Oklahoma ,OK,172,2003,0.147,0.130159
+Oregon ,OR,300,2003,0.12,0.137785
+Pennsylvania ,PA,301,2003,0.106,0.135279
+Rhode Island ,RI,452,2003,0.113,0.143659
+South Carolina ,SC,250,2003,0.138,0.141064
+South Dakota ,SD,236,2003,0.123,0.122855
+Tennessee ,TN,247,2003,0.135,0.144499
+Texas ,TX,187,2003,0.162,0.149403
+Utah ,UT,258,2003,0.1,0.129286
+Vermont ,VT,337,2003,0.092,0.134157
+Virginia ,VA,316,2003,0.1,0.151942
+Washington ,WA,325,2003,0.11,0.146221
+West Virginia ,WV,183,2003,0.163,0.13077
+Wisconsin ,WI,272,2003,0.089,0.1385
+Wyoming ,WY,188,2003,0.108,0.123183
+Alabama ,AL,242,2004,0.161,0.1338
+Alaska ,AK,225,2004,0.1,0.141839
+Arizona ,AZ,291,2004,0.146,0.139691
+Arkansas ,AR,223,2004,0.156,0.130965
+California ,CA,508,2004,0.132,0.151439
+Colorado ,CO,336,2004,0.102,0.150279
+Connecticut ,CT,409,2004,0.091,0.140152
+Delaware ,DE,413,2004,0.096,0.13945
+Florida ,FL,349,2004,0.119,0.134449
+Georgia ,GA,303,2004,0.137,0.154935
+Hawaii ,HI,402,2004,0.09,0.139336
+Idaho ,ID,252,2004,0.115,0.128662
+Illinois ,IL,328,2004,0.119,0.143057
+Indiana ,IN,242,2004,0.111,0.136404
+Iowa ,IA,228,2004,0.105,0.124655
+Kansas ,KS,222,2004,0.111,0.129051
+Kentucky ,KY,263,2004,0.163,0.1397
+Louisiana ,LA,201,2004,0.192,0.130669
+Maine ,ME,444,2004,0.115,0.132562
+Maryland ,MD,405,2004,0.092,0.145248
+Massachusetts ,MA,674,2004,0.099,0.145599
+Michigan ,MI,313,2004,0.125,0.137347
+Minnesota ,MN,337,2004,0.081,0.137633
+Mississippi ,MS,217,2004,0.193,0.130926
+Missouri ,MO,270,2004,0.13,0.132292
+Montana ,MT,292,2004,0.136,0.115683
+Nebraska ,NE,240,2004,0.1,0.127911
+Nevada ,NV,335,2004,0.111,0.151556
+New Hampshire ,NH,452,2004,0.066,0.140729
+New Jersey ,NJ,474,2004,0.084,0.148181
+New Mexico ,NM,253,2004,0.167,0.128386
+New York ,NY,556,2004,0.145,0.144771
+North Carolina ,NC,285,2004,0.138,0.147359
+North Dakota ,ND,212,2004,0.108,0.116054
+Ohio ,OH,260,2004,0.117,0.133967
+Oklahoma ,OK,180,2004,0.14,0.127359
+Oregon ,OR,334,2004,0.129,0.13577
+Pennsylvania ,PA,335,2004,0.112,0.131492
+Rhode Island ,RI,530,2004,0.116,0.139579
+South Carolina ,SC,264,2004,0.15,0.137278
+South Dakota ,SD,250,2004,0.129,0.119117
+Tennessee ,TN,259,2004,0.15,0.141176
+Texas ,TX,194,2004,0.162,0.146803
+Utah ,UT,271,2004,0.103,0.128537
+Vermont ,VT,382,2004,0.087,0.129356
+Virginia ,VA,370,2004,0.095,0.147604
+Washington ,WA,362,2004,0.116,0.142738
+West Virginia ,WV,197,2004,0.162,0.128657
+Wisconsin ,WI,294,2004,0.109,0.134225
+Wyoming ,WY,209,2004,0.103,0.120774
+Alabama ,AL,262,2005,0.169,0.131087
+Alaska ,AK,257,2005,0.108,0.138514
+Arizona ,AZ,394,2005,0.144,0.138249
+Arkansas ,AR,240,2005,0.172,0.128966
+California ,CA,617,2005,0.133,0.148501
+Colorado ,CO,355,2005,0.109,0.1479
+Connecticut ,CT,457,2005,0.083,0.135471
+Delaware ,DE,475,2005,0.103,0.135479
+Florida ,FL,445,2005,0.128,0.131415
+Georgia ,GA,322,2005,0.145,0.151427
+Hawaii ,HI,501,2005,0.099,0.137875
+Idaho ,ID,299,2005,0.134,0.127543
+Illinois ,IL,358,2005,0.12,0.140566
+Indiana ,IN,251,2005,0.122,0.134049
+Iowa ,IA,241,2005,0.108,0.122867
+Kansas ,KS,231,2005,0.117,0.12675
+Kentucky ,KY,274,2005,0.169,0.136749
+Louisiana ,LA,219,2005,0.202,0.12756
+Maine ,ME,489,2005,0.123,0.128524
+Maryland ,MD,493,2005,0.083,0.140638
+Massachusetts ,MA,725,2005,0.103,0.141018
+Michigan ,MI,321,2005,0.131,0.134086
+Minnesota ,MN,362,2005,0.092,0.134224
+Mississippi ,MS,233,2005,0.21,0.128602
+Missouri ,MO,288,2005,0.136,0.129478
+Montana ,MT,333,2005,0.146,0.114015
+Nebraska ,NE,249,2005,0.11,0.126193
+Nevada ,NV,396,2005,0.111,0.149227
+New Hampshire ,NH,493,2005,0.076,0.136027
+New Jersey ,NJ,547,2005,0.087,0.144119
+New Mexico ,NM,290,2005,0.184,0.125898
+New York ,NY,627,2005,0.139,0.140805
+North Carolina ,NC,307,2005,0.149,0.144762
+North Dakota ,ND,229,2005,0.116,0.113996
+Ohio ,OH,268,2005,0.13,0.131099
+Oklahoma ,OK,190,2005,0.164,0.125631
+Oregon ,OR,400,2005,0.141,0.134887
+Pennsylvania ,PA,376,2005,0.119,0.128237
+Rhode Island ,RI,586,2005,0.119,0.135266
+South Carolina ,SC,287,2005,0.156,0.134194
+South Dakota ,SD,269,2005,0.136,0.116691
+Tennessee ,TN,279,2005,0.156,0.138488
+Texas ,TX,204,2005,0.175,0.145029
+Utah ,UT,306,2005,0.105,0.128745
+Vermont ,VT,432,2005,0.104,0.125838
+Virginia ,VA,441,2005,0.1,0.14421
+Washington ,WA,429,2005,0.12,0.14028
+West Virginia ,WV,217,2005,0.18,0.127562
+Wisconsin ,WI,316,2005,0.102,0.131255
+Wyoming ,WY,235,2005,0.106,0.119923
+Alabama ,AL,284,2006,0.166,0.129003
+Alaska ,AK,269,2006,0.109,0.137312
+Arizona ,AZ,431,2006,0.142,0.13772
+Arkansas ,AR,255,2006,0.173,0.127738
+California ,CA,644,2006,0.131,0.146176
+Colorado ,CO,365,2006,0.116,0.147058
+Connecticut ,CT,473,2006,0.083,0.131253
+Delaware ,DE,512,2006,0.107,0.131641
+Florida ,FL,486,2006,0.126,0.128932
+Georgia ,GA,339,2006,0.148,0.148917
+Hawaii ,HI,538,2006,0.094,0.136577
+Idaho ,ID,342,2006,0.128,0.127215
+Illinois ,IL,378,2006,0.123,0.139009
+Indiana ,IN,256,2006,0.125,0.132404
+Iowa ,IA,248,2006,0.11,0.121279
+Kansas ,KS,242,2006,0.122,0.125633
+Kentucky ,KY,285,2006,0.17,0.134739
+Louisiana ,LA,243,2006,0.194,0.124448
+Maine ,ME,511,2006,0.127,0.125223
+Maryland ,MD,538,2006,0.08,0.137091
+Massachusetts ,MA,723,2006,0.1,0.137183
+Michigan ,MI,318,2006,0.135,0.131201
+Minnesota ,MN,372,2006,0.097,0.131983
+Mississippi ,MS,255,2006,0.209,0.126347
+Missouri ,MO,300,2006,0.138,0.12765
+Montana ,MT,369,2006,0.144,0.113035
+Nebraska ,NE,255,2006,0.113,0.125189
+Nevada ,NV,411,2006,0.105,0.147996
+New Hampshire ,NH,502,2006,0.08,0.131675
+New Jersey ,NJ,579,2006,0.087,0.140494
+New Mexico ,NM,328,2006,0.183,0.124792
+New York ,NY,660,2006,0.142,0.137638
+North Carolina ,NC,332,2006,0.146,0.142811
+North Dakota ,ND,242,2006,0.117,0.112351
+Ohio ,OH,271,2006,0.132,0.128843
+Oklahoma ,OK,200,2006,0.167,0.124714
+Oregon ,OR,455,2006,0.134,0.134937
+Pennsylvania ,PA,402,2006,0.12,0.125657
+Rhode Island ,RI,601,2006,0.115,0.131294
+South Carolina ,SC,311,2006,0.157,0.131786
+South Dakota ,SD,284,2006,0.136,0.115237
+Tennessee ,TN,301,2006,0.161,0.136237
+Texas ,TX,218,2006,0.169,0.143722
+Utah ,UT,360,2006,0.107,0.12955
+Vermont ,VT,464,2006,0.102,0.122753
+Virginia ,VA,475,2006,0.096,0.141585
+Washington ,WA,487,2006,0.118,0.138907
+West Virginia ,WV,229,2006,0.176,0.126581
+Wisconsin ,WI,328,2006,0.109,0.128467
+Wyoming ,WY,267,2006,0.103,0.119357
+Alabama ,AL,297,2007,0.166,0.128121
+Alaska ,AK,285,2007,0.098,0.13632
+Arizona ,AZ,420,2007,0.141,0.137327
+Arkansas ,AR,264,2007,0.176,0.127283
+California ,CA,602,2007,0.124,0.1442
+Colorado ,CO,370,2007,0.115,0.146906
+Connecticut ,CT,477,2007,0.079,0.128162
+Delaware ,DE,522,2007,0.103,0.12894
+Florida ,FL,464,2007,0.121,0.127041
+Georgia ,GA,348,2007,0.143,0.146755
+Hawaii ,HI,549,2007,0.085,0.134832
+Idaho ,ID,358,2007,0.121,0.128144
+Illinois ,IL,385,2007,0.119,0.138196
+Indiana ,IN,260,2007,0.123,0.131811
+Iowa ,IA,255,2007,0.11,0.120494
+Kansas ,KS,248,2007,0.112,0.125009
+Kentucky ,KY,295,2007,0.172,0.133885
+Louisiana ,LA,253,2007,0.188,0.123134
+Maine ,ME,521,2007,0.122,0.122608
+Maryland ,MD,542,2007,0.083,0.13415
+Massachusetts ,MA,708,2007,0.1,0.134151
+Michigan ,MI,305,2007,0.139,0.128547
+Minnesota ,MN,368,2007,0.095,0.130616
+Mississippi ,MS,266,2007,0.207,0.125652
+Missouri ,MO,308,2007,0.133,0.126811
+Montana ,MT,395,2007,0.141,0.112776
+Nebraska ,NE,261,2007,0.111,0.123671
+Nevada ,NV,387,2007,0.106,0.14714
+New Hampshire ,NH,499,2007,0.073,0.128118
+New Jersey ,NJ,577,2007,0.085,0.137639
+New Mexico ,NM,346,2007,0.179,0.124282
+New York ,NY,664,2007,0.138,0.135559
+North Carolina ,NC,348,2007,0.143,0.14125
+North Dakota ,ND,261,2007,0.118,0.111705
+Ohio ,OH,270,2007,0.131,0.127224
+Oklahoma ,OK,210,2007,0.158,0.124526
+Oregon ,OR,472,2007,0.13,0.135136
+Pennsylvania ,PA,413,2007,0.116,0.123783
+Rhode Island ,RI,585,2007,0.119,0.128404
+South Carolina ,SC,322,2007,0.151,0.130801
+South Dakota ,SD,298,2007,0.132,0.11479
+Tennessee ,TN,314,2007,0.158,0.135253
+Texas ,TX,229,2007,0.163,0.143326
+Utah ,UT,394,2007,0.098,0.131399
+Vermont ,VT,475,2007,0.101,0.120566
+Virginia ,VA,478,2007,0.099,0.139609
+Washington ,WA,514,2007,0.114,0.138218
+West Virginia ,WV,236,2007,0.171,0.126669
+Wisconsin ,WI,334,2007,0.108,0.126496
+Wyoming ,WY,290,2007,0.095,0.120485
+Alabama ,AL,300,2008,0.159,0.127734
+Alaska ,AK,282,2008,0.092,0.136631
+Arizona ,AZ,352,2008,0.147,0.136807
+Arkansas ,AR,262,2008,0.173,0.127597
+California ,CA,464,2008,0.133,0.142238
+Colorado ,CO,367,2008,0.112,0.146565
+Connecticut ,CT,453,2008,0.091,0.125438
+Delaware ,DE,494,2008,0.103,0.127558
+Florida ,FL,368,2008,0.133,0.125594
+Georgia ,GA,325,2008,0.147,0.145146
+Hawaii ,HI,517,2008,0.093,0.13451
+Idaho ,ID,348,2008,0.125,0.128592
+Illinois ,IL,370,2008,0.122,0.137082
+Indiana ,IN,258,2008,0.129,0.131539
+Iowa ,IA,254,2008,0.114,0.119837
+Kansas ,KS,248,2008,0.113,0.124813
+Kentucky ,KY,296,2008,0.173,0.133404
+Louisiana ,LA,253,2008,0.176,0.122724
+Maine ,ME,504,2008,0.126,0.120366
+Maryland ,MD,493,2008,0.082,0.132202
+Massachusetts ,MA,669,2008,0.101,0.131686
+Michigan ,MI,281,2008,0.144,0.126638
+Minnesota ,MN,352,2008,0.096,0.129327
+Mississippi ,MS,268,2008,0.208,0.125481
+Missouri ,MO,303,2008,0.135,0.126286
+Montana ,MT,394,2008,0.141,0.113591
+Nebraska ,NE,258,2008,0.108,0.123339
+Nevada ,NV,300,2008,0.112,0.146971
+New Hampshire ,NH,470,2008,0.078,0.124698
+New Jersey ,NJ,542,2008,0.087,0.135115
+New Mexico ,NM,334,2008,0.17,0.124185
+New York ,NY,630,2008,0.137,0.133511
+North Carolina ,NC,346,2008,0.146,0.139964
+North Dakota ,ND,268,2008,0.115,0.110822
+Ohio ,OH,263,2008,0.133,0.12608
+Oklahoma ,OK,211,2008,0.157,0.124451
+Oregon ,OR,448,2008,0.135,0.135866
+Pennsylvania ,PA,409,2008,0.121,0.122205
+Rhode Island ,RI,530,2008,0.121,0.126808
+South Carolina ,SC,325,2008,0.157,0.129915
+South Dakota ,SD,304,2008,0.127,0.114985
+Tennessee ,TN,315,2008,0.155,0.134552
+Texas ,TX,233,2008,0.158,0.142723
+Utah ,UT,378,2008,0.097,0.13434
+Vermont ,VT,470,2008,0.104,0.118739
+Virginia ,VA,449,2008,0.102,0.138446
+Washington ,WA,491,2008,0.113,0.137671
+West Virginia ,WV,229,2008,0.174,0.127362
+Wisconsin ,WI,329,2008,0.105,0.125186
+Wyoming ,WY,291,2008,0.095,0.121868
